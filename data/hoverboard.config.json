@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Lisbon",
+    "twitter": "GDGLisbon"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -32,7 +32,7 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "dflx",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -63,38 +63,33 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGLisbon",
+      "url": "https://twitter.com/GDGLisbon"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "103481941845362975629",
+      "url": "https://plus.google.com/103481941845362975629"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDGLisbon",
+      "url": "https://www.facebook.com/GDGLisbon"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Portugal Telecom",
+    "address": "Avenida Fontes Pereira de Melo, 40, 1069-300 Lisboa",
+    "link": "https://www.google.pt/maps/place/Av.+Fontes+Pereira+de+Melo+37,+1050-010+Lisboa/@38.7308998,-9.14664,191m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd193375825b5627:0xbb29162f7f7db34!8m2!3d38.7308998!4d-9.1460927",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 38.7308998,
+      "longitude": -9.14664,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 38.7308998,
+      "longitude": -9.14664
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -105,10 +100,10 @@
   "gallery": {
     "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/gdg_sponsor_025.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/gdg_sponsor_049.jpg",
+        "/images/backgrounds/gdg_sponsor_056.jpg"
       ]
     }
   },
@@ -117,7 +112,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
