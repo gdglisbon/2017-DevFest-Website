@@ -1,10 +1,10 @@
 {
   "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in Lisbon carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for 2 days of sessions, workshops and showcases.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 10-11, 2017",
   "locationAddressShort": "Lisbon, Portugal",
-  "motto": "Be a GDG. Be a Hero!",
+  "motto": "The biggest Google tech conference in Lisbon.",
   "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
@@ -14,7 +14,7 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks and dinner.  Lunch will only be offered to the workshop attendees. Accommodation is NOT included in the ticket price.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -23,19 +23,19 @@
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFLX '15 Sessions",
+  "featuredVideosTitle": "Featured #devfestlx '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Renowned Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
   "locationTitle": "Portugal Telecom",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
+  "locationDescription": "An innovative and fully equipped building in the heart of Lisbon, which can fulfill the needs of a large event.",
   "locationAddress": "Avenida Fontes Pereira de Melo, 40",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> is proud organizer of DevFest Lisbon",
+  "aboutOrganizers": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> is a proud organizer of DevFest Lisbon together with WTM Lisbon",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "aboutGdg": "Google Developers Group (GDG) Lisbon - is an independent and volunteer community that aims to organize the best workshops, codelabs and talks about Google related technologies.  Our goal is to organize a sharing space in order to connect developers, designers and business related experts in Portugal and in the world.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -76,11 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Lisbon 2016",
-          "url": "TODO: ",
-          "newTab": true
         }
       ]
     },
@@ -89,7 +84,7 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "http://bit.ly/2fE4Hha",
           "newTab": true
         },
         {
@@ -103,13 +98,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "lisbon.gdg@gmail.com",
+        "url": "mailto:lisbon.gdg@gmail.com"
       }
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lisbon](https://www.gdglisbon.xyz/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about. <br><br> Google Developers Group (GDG) Lisbon - is an independent and volunteer community that aims to organize the best workshops, codelabs and talks about Google related technologies.  <br><br> Our goal is to organize a sharing space in order to connect developers, designers and business related experts in Portugal and in the world.",
   "statistics": [
     {
       "counter": 300,
@@ -117,7 +112,7 @@
     },
     {
       "counter": 2,
-      "caption": "Days"
+      "caption": "Day"
     },
     {
       "counter": 15,
@@ -127,9 +122,5 @@
       "counter": 2,
       "caption": "Tracks"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }

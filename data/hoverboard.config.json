@@ -3,8 +3,8 @@
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-82860335-1",
+    "dev": "UA-82860335-1"
   },
   "organizer": {
     "name": "GDG Lisbon",
@@ -17,9 +17,9 @@
   },
   "firebase": {
     "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
     "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "domain": "devfest2017-a169d.firebaseapp.com",
+    "database": "https://devfest2017-a169d.firebaseio.com",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,11 +32,9 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dflx",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "devfestlx",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -92,13 +90,14 @@
       "longitude": -9.14664
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/photo-location_1.jpg",
+      "/images/backgrounds/photo-location_2.jpg",
+      "/images/backgrounds/photo-location_3.jpg",
+      "/images/backgrounds/photo-location_3.jpg"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/MckhZxXjrvUfMDZM9",
     "photos": {
       "big": "/images/backgrounds/gdg_sponsor_025.jpg",
       "small": [
@@ -111,15 +110,10 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#364C73",
         "backgroundImage": "/images/backgrounds/home.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
