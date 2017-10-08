@@ -1,11 +1,11 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "GDG DevFest Season 2017",
+  "description": "GDG DevFest Lisbon brings together experts in Android, Web, Cloud, Design and Business to Lisbon for 2 days of sessions, workshops and showcases.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
+  "dates": "November 10-11, 2017",
+  "locationAddressShort": "Lisbon, Portugal",
+  "motto": "The biggest Google tech conference in Lisbon.",
+  "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
@@ -14,7 +14,7 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks and dinner.  Lunch will only be offered to the workshop attendees. Accommodation is NOT included in the ticket price.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -23,19 +23,19 @@
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+  "featuredVideosTitle": "Featured #devfestlx '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Renowned Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "Portugal Telecom",
+  "locationDescription": "An innovative and fully equipped building in the heart of Lisbon, which can fulfill the needs of a large event.",
+  "locationAddress": "Avenida Fontes Pereira de Melo, 40",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "<a href='https://www.gdglisbon.xyz/' target='_blank'>GDG Lisbon</a> is a proud organizer of DevFest Lisbon together with WTM Lisbon",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "aboutGdg": "Google Developers Group (GDG) Lisbon - is an independent and volunteer community that aims to organize the best workshops, codelabs and talks about Google related technologies.  Our goal is to organize a sharing space in order to connect developers, designers and business related experts in Portugal and in the world.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -76,21 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -99,12 +84,12 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "http://bit.ly/2fE4Hha",
           "newTab": true
         },
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://goo.gl/d3ieyP",
           "newTab": true
         }
       ]
@@ -113,33 +98,29 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "lisbon.gdg@gmail.com",
+        "url": "mailto:lisbon.gdg@gmail.com"
       }
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about. <br><br> Google Developers Group (GDG) Lisbon - is an independent and volunteer community that aims to organize the best workshops, codelabs and talks about Google related technologies.  <br><br> Our goal is to organize a sharing space in order to connect developers, designers and business related experts in Portugal and in the world.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 300,
       "caption": "Attendees"
     },
     {
       "counter": 2,
-      "caption": "Days"
+      "caption": "Day"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "Tracks"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }
