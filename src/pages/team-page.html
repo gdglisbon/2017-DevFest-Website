@@ -27,13 +27,13 @@
         font-size: 30px;
         line-height: 2.5;
       }
-      
+
       .team-block {
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 24px;
-        margin-bottom: 32px;        
-      }     
+        margin-bottom: 32px;
+      }
 
       .member {
         padding: 16px 0;
@@ -41,10 +41,11 @@
       }
 
       .member:hover .photo {
-        border: 5px solid var(--contrast-additional-background-color);
+        transform: scale(0.8);
       }
 
       .photo {
+        flex: none;
         width: 96px;
         height: 96px;
         background-color: var(--contrast-additional-background-color);
@@ -52,9 +53,10 @@
         overflow: hidden;
         transform: translateZ(0);
         border-radius: 50%;
+        border: 5px solid var(--contrast-additional-background-color);
       }
 
-      .description {
+      .member-details {
         color: var(--primary-text-color);
         margin-left: 16px;
       }
@@ -73,7 +75,7 @@
           padding: 6px;
           width: 32px;
           height: 32px;
-        };     
+        };
 
         color: var(--secondary-text-color);
       }
@@ -122,31 +124,31 @@
     </div>
 
     <div class="container">
-      <template is="dom-repeat" items="[[team]]" as="team">        
+      <template is="dom-repeat" items="[[team]]" as="team">
         <div class="team-title">[[team.title]]</div>
 
         <div class="team-block">
           <template is="dom-repeat" items="[[team.members]]" as="member">
             <div class="member" layout horizontal>
-              <plastic-image 
+              <plastic-image
                 class="photo"
                 srcset="[[member.photoUrl]]"
                 sizing="cover"
                 lazy-load preload fade>
               </plastic-image>
 
-              <div class="description" layout vertical center-justified start>
+              <div class="member-details" layout vertical center-justified start>
                 <h2 class="name">[[member.name]]</h2>
                 <div class="activity">[[member.title]]</div>
                 <div class="contacts">
                   <template is="dom-repeat" items="[[member.socials]]" as="social">
-                    <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                    <a href$="[[social.link]]" target="_blank" rel="noopener noreferrer">
                       <paper-icon-button class="social-icon" icon="hoverboard:{{social.icon}}"></paper-icon-button>
                     </a>
                   </template>
                 </div>
-              </div>             
-            </div>            
+              </div>
+            </div>
           </template>
         </div>
       </template>
@@ -173,7 +175,7 @@
       }
     }
 
-    customElements.define(TeamPage.is, TeamPage);
+    window.customElements.define(TeamPage.is, TeamPage);
 
   </script>
 </dom-module>

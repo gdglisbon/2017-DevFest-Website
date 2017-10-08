@@ -1,5 +1,4 @@
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
-<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../../bower_components/paper-input/paper-input.html">
 
 <dom-module id="mailchimp-subscribe">
@@ -40,32 +39,34 @@
       <form
         id="mc-embedded-subscribe-form"
         class="mc-embedded-subscribe-form validate"
-        action="[[url]]"
+        action$="[[url]]"
         method="post"
         name="mc-embedded-subscribe-form"
         target="_blank"
         rel="noopener noreferrer"
         novalidate>
         <div class="mc-field-group" layout vertical flex>
-          <paper-input label="{$ yourEmail $}" name="EMAIL" id="mce-EMAIL" autocomplete="off" no-label-float>
-            <iron-icon icon="mail" prefix></iron-icon>
+          <paper-input label="{$ subscribeBlock.yourEmail $}"
+                       name="EMAIL"
+                       id="mce-EMAIL"
+                       autocomplete="off" no-label-float>
           </paper-input>
-          <paper-button 
+          <paper-button
             class="subscribe-button"
             on-click="submitForm"
             ga-on="click"
             ga-event-category="attendees"
             ga-event-action="subscribe"
             ga-event-label="mailchimp footer"
-            layout flex self-end>{$ subscribe $}</paper-button>
+            layout flex self-end>{$ subscribeBlock.subscribe $}</paper-button>
         </div>
 
         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
         <div style="position: absolute; left: -5000px;">
-          <input type="text" name="[[ name ]]" tabindex="-1">
+          <input type="text" name$="[[ name ]]" tabindex="-1">
         </div>
         <div class="mc-submit-group">
-          <input type="submit" value="{$ subscribe $}" name="subscribe" id="mc-embedded-subscribe"
+          <input type="submit" value="{$ subscribeBlock.subscribe $}" name="subscribe" id="mc-embedded-subscribe"
                  style="display:none">
         </div>
       </form>
@@ -92,10 +93,9 @@
 
       submitForm() {
         this.$['mc-embedded-subscribe-form'].submit();
-        //TODO: add tracking
      }
     }
 
-    customElements.define(MailchimpSubscribe.is, MailchimpSubscribe);
+    window.customElements.define(MailchimpSubscribe.is, MailchimpSubscribe);
   </script>
 </dom-module>
