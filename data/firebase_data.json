@@ -305,7 +305,7 @@
       "bio": "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype, managing the delivery of Online Payments programmes mainly in Emerging markets, enabling millions of users to buy Skype paid services. In my spare time, I run Charub, an early stage Social Enterprise raising money for charities through the use of online advertising and social media.\n \nI few years ago, I was a Project Manager and Developer at e-pay, a Euronet Worldwide company, working on top-up integration projects with Retailers such as Tesco, Sainsbury's and Asda and service providers like Vodafone, Orange and Apple iTunes.\n \nBefore my UK adventures, I lived in South Africa for a couple of years where I was a Computer Science instructor in a Pretoria college. My first work experience was in my native Portugal as a Computer Science lecturer at the University I graduated from with a BA+Honours in Computer Science and Business Management.",
       "company": "DSSC Digital Software Solutions",
       "companyLogo": "",
-      "country": "",
+      "country": "Portugal",
       "featured": true,
       "id": 1,
       "name": "Ana Ribeiro",
@@ -320,6 +320,136 @@
       ],
       "tags": [],
       "title": "Head of Operations & PMO"
+    },
+    {
+      "bio": "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
+      "company": "",
+      "companyLogo": "",
+      "country": "Portugal",
+      "featured": true,
+      "id": 2,
+      "name": "Mário Cordeiro",
+      "photoUrl": "../images/people/mario_cordeiro.jpg",
+      "shortBio": "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/mariocordeiro",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/mmfcordeiro",
+          "name": "Twitter"
+        }
+      ],
+      "tags": [],
+      "title": ""
+    },
+    {
+      "bio": "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
+      "company": "",
+      "companyLogo": "",
+      "country": "Portugal",
+      "featured": true,
+      "id": 3,
+      "name": "Bianca Brancaleone ",
+      "photoUrl": "../images/people/biancab.jpg",
+      "shortBio": "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/bianca.brancaleone",
+          "name": "Facebook"
+        }
+      ],
+      "tags": ["GDE"],
+      "title": "UX Freelancer and Consultant, Product Design GDE"
+    },
+    {
+      "bio": "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
+      "company": "Zalando SE",
+      "companyLogo": "https://mosaic02.ztat.net/nvg/z-header-fragment/zalando-logo/en-GB/logodefault.svg ",
+      "country": "Germany",
+      "featured": true,
+      "id": 4,
+      "name": "David Cifuentes",
+      "photoUrl": "../images/people/david_cifuentes.jpg",
+      "shortBio": "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/dcifuen/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dcifuen",
+          "name": "Twitter"
+        }
+      ],
+      "tags": ["GDE"],
+      "title": "Software Engineer @ Zalando SE, Google Developer Expert"
+    },
+    {
+      "bio": "Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields. He works as a software engineer at Archilogic in front- and backend. He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit. Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.",
+      "company": "Archilogic",
+      "companyLogo": "",
+      "country": "Switzerland",
+      "featured": true,
+      "id": 5,
+      "name": "Martin Splitt",
+      "photoUrl": "../images/people/martin_splitt.jpg",
+      "shortBio": "Martin is pretty decent at humaning and pretty good at computering,so he decided to use his computering to improve his and other's humaning. He loves the open web and open source and helps to make things better with, but not limited to, code.",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/g33konaut",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/g33konaut",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "http://geekonaut.de/",
+          "name": "Geekonaut"
+        }
+      ],
+      "tags": ["GDE, Virtual Reality"],
+      "title": "Head of Engineering @ Archilogic, Google Developer Expert"
+    },
+    {
+      "bio": "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.\nCurrently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
+      "company": "Kubrickology",
+      "companyLogo": "",
+      "country": "Netherlands",
+      "featured": true,
+      "id": 6,
+      "name": "Bob van Luijt",
+      "photoUrl": "../images/people/bob.jpg",
+      "shortBio": "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree.",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/bobvanluijt",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "twitter.com/bobvanluijt",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "www.bob.wtf",
+          "name": "Website"
+        }
+      ],
+      "tags": ["GDE"],
+      "title": "Software Engineer @ Kubrickology, Google Developer Expert"
     }
   ],
   "team": [
