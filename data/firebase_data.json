@@ -15,13 +15,19 @@
     {
       "logos": [
         {
-          "logoUrl": "../images/logos/gdg-lisbon.svg",
+          "logoUrl": "../images/logos/gdglisbon.png",
           "name": "GDG Lisboa",
           "url": "https://gdglisbon.xyz",
           "width": 170
+        },
+        {
+          "logoUrl": "../images/logos/wtmlogo.png",
+          "name": "WTM Lisboa",
+          "url": "https://www.facebook.com/wtmlisboa/",
+          "width": 170
         }
       ],
-      "title": "Template Creator"
+      "title": "Promoters"
     },
     {
       "logos": [
@@ -31,8 +37,44 @@
           "url": "https://www.google.com.ua/intl/en/about/"
         }
       ],
-      "title": "General Partner"
-    }
+      "title": "Main Sponsor"
+    }, 
+    {
+      "title" : "Partners"
+    },
+    {
+      "title" : "Supporters"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/abertomadrugada.jpg",
+          "name": "Aberto até Madrugada",
+          "url": "http://abertoatedemadrugada.com/"
+        },
+        {
+          "logoUrl": "../images/logos/canalsuperior.jpg",
+          "name": "Canal Superior",
+          "url": "http://www.canalsuperior.pt/"
+        },
+        {
+          "logoUrl": "../images/logos/pplware.png",
+          "name": "PPLWare",
+          "url": "https://pplware.sapo.pt/"
+        }
+      ],
+      "title" : "Media Partner"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/pasteis-de-belem.svg",
+          "name": "Pastéis de Belém",
+          "url": "http://pasteisdebelem.pt/"
+        }
+      ],
+      "title" : "Food&Drink"
+    } 
   ],
   "schedule": [
     {
@@ -267,7 +309,7 @@
       "featured": true,
       "id": 1,
       "name": "Ana Ribeiro",
-      "photoUrl": "/images/people/ana_ribeiro.jpg",
+      "photoUrl": "../images/people/ana_ribeiro.jpg",
       "shortBio": "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype...",
       "socials": [
         {
@@ -284,32 +326,8 @@
     {
       "members": [
         {
-          "name": "Filipe Barroso",
-          "photoUrl": "/images/people/filipe_barroso.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/abarroso",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
-          "name": "Filipe Mendes",
-          "photoUrl": "/images/people/filipe_mendes.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/fmendes6",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
           "name": "Ana Parada",
-          "photoUrl": "/images/people/ana_parada.png",
+          "photoUrl": "../images/people/ana_parada.png",
           "socials": [
             {
               "icon": "twitter",
@@ -326,7 +344,7 @@
         },
         {
           "name": "Inês Armada Brás",
-          "photoUrl": "/images/people/ines_armada_bras.jpg",
+          "photoUrl": "../images/people/ines_armada_bras.jpg",
           "socials": [
             {
               "icon": "twitter",
@@ -338,11 +356,35 @@
         },
         {
           "name": "Daniel Leal",
-          "photoUrl": "/images/people/daniel_leal.jpg",
+          "photoUrl": "../images/people/daniel_leal.jpg",
           "socials": [
             {
               "icon": "twitter",
               "link": "https://twitter.com/danielgekk",
+              "name": "Twitter"
+            }
+          ],
+          "title": "Organizer"
+        },
+        {
+          "name": "Filipe Barroso",
+          "photoUrl": "../images/people/filipe_barroso.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/abarroso",
+              "name": "Twitter"
+            }
+          ],
+          "title": "Organizer"
+        },
+        {
+          "name": "Filipe Mendes",
+          "photoUrl": "../images/people/filipe_mendes.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/fmendes6",
               "name": "Twitter"
             }
           ],
