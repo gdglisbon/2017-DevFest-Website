@@ -68,7 +68,7 @@
     {
       "logos": [
         {
-          "logoUrl": "../images/logos/pasteis-de-belem.svg",
+          "logoUrl": "../images/logos/pasteis_de_belem_min.jpg",
           "name": "Pastéis de Belém",
           "url": "http://pasteisdebelem.pt/"
         }
@@ -309,7 +309,7 @@
       "featured": true,
       "id": 1,
       "name": "Ana Ribeiro",
-      "photoUrl": "../images/people/ana_ribeiro.jpg",
+      "photoUrl": "../images/people/ana_ribeiro_min.jpg",
       "shortBio": "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype...",
       "socials": [
         {
@@ -329,7 +329,7 @@
       "featured": true,
       "id": 2,
       "name": "Mário Cordeiro",
-      "photoUrl": "../images/people/mario_cordeiro.jpg",
+      "photoUrl": "../images/people/mario_cordeiro_min.jpg",
       "shortBio": "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
       "socials": [
         {
@@ -350,7 +350,7 @@
       "bio": "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
       "company": "",
       "companyLogo": "",
-      "country": "Portugal",
+      "country": "Brazil",
       "featured": true,
       "id": 3,
       "name": "Bianca Brancaleone ",
@@ -363,7 +363,12 @@
           "name": "Facebook"
         }
       ],
-      "tags": ["GDE"],
+      "badges" : [ {
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/bianca-brancaleone",
+        "name" : "GDE"
+      } ],
+      "tags": [],
       "title": "UX Freelancer and Consultant, Product Design GDE"
     },
     {
@@ -374,7 +379,7 @@
       "featured": true,
       "id": 4,
       "name": "David Cifuentes",
-      "photoUrl": "../images/people/david_cifuentes.jpg",
+      "photoUrl": "../images/people/david_cifuentes_min.jpg",
       "shortBio": "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud.",
       "socials": [
         {
@@ -388,7 +393,12 @@
           "name": "Twitter"
         }
       ],
-      "tags": ["GDE"],
+      "badges" : [ {
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/david-cifuentes",
+        "name" : "GDE"
+      } ],
+      "tags": [],
       "title": "Software Engineer @ Zalando SE, Google Developer Expert"
     },
     {
@@ -399,7 +409,7 @@
       "featured": true,
       "id": 5,
       "name": "Martin Splitt",
-      "photoUrl": "../images/people/martin_splitt.jpg",
+      "photoUrl": "../images/people/martin_splitt_min.jpg",
       "shortBio": "Martin is pretty decent at humaning and pretty good at computering,so he decided to use his computering to improve his and other's humaning. He loves the open web and open source and helps to make things better with, but not limited to, code.",
       "socials": [
         {
@@ -418,7 +428,12 @@
           "name": "Geekonaut"
         }
       ],
-      "tags": ["GDE, Virtual Reality"],
+      "badges" : [ {
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/martin-splitt",
+        "name" : "GDE"
+      } ],
+      "tags": ["Virtual Reality"],
       "title": "Head of Engineering @ Archilogic, Google Developer Expert"
     },
     {
@@ -429,7 +444,7 @@
       "featured": true,
       "id": 6,
       "name": "Bob van Luijt",
-      "photoUrl": "../images/people/bob.jpg",
+      "photoUrl": "../images/people/bob_van_luijt_min.jpg",
       "shortBio": "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree.",
       "socials": [
         {
@@ -448,7 +463,12 @@
           "name": "Website"
         }
       ],
-      "tags": ["GDE"],
+      "badges" : [ {
+        "description" : "Android Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/bob-van-luijt",
+        "name" : "GDE"
+      } ],
+      "tags": [],
       "title": "Software Engineer @ Kubrickology, Google Developer Expert"
     }
   ],
