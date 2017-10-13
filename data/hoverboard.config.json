@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "http://devfest.gdglisbon.xyz/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -17,9 +17,9 @@
   },
   "firebase": {
     "name": "hoverboard-experimental",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
     "domain": "devfest2017-a169d.firebaseapp.com",
     "database": "https://devfest2017-a169d.firebaseio.com",
+    "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -34,7 +34,7 @@
   },
   "hashtag": "devfestlx",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "https://goo.gl/9vsbjc",
+  "partnershipProposition": "http://bit.ly/2wRR9FT",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -76,7 +76,7 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAfNLqCdgBC13Q0tU4eGev5l2Y38zZ6e1k",
     "name": "Portugal Telecom",
     "address": "Avenida Fontes Pereira de Melo, 40, 1069-300 Lisboa",
     "link": "https://www.google.pt/maps/place/Av.+Fontes+Pereira+de+Melo+37,+1050-010+Lisboa/@38.7308998,-9.14664,191m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd193375825b5627:0xbb29162f7f7db34!8m2!3d38.7308998!4d-9.1460927",
