@@ -1,5 +1,5 @@
 {
-  "url": "http://devfest.gdglisbon.xyz/",
+  "url": "https://devfest.gdglisbon.xyz/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -25,8 +25,8 @@
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://google.us13.list-manage.com/subscribe/post?u=ab348098372d2b33687f05541&amp;id=4a202ed14d",
+    "name": "b_ab348098372d2b33687f05541_4a202ed14d"
   },
   "dateFormat": {
     "locale": "en-US",
