@@ -247,13 +247,13 @@
       "tags": []
     },
     "107": {
-      "description": "TBD",
+      "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
       "id": 107,
       "language": "English",
-      "title": "TBD",
+      "title": "World Citizen",
       "presentation": "",
       "speakers": [7],
-      "tags": []
+      "tags": ["Experiences"]
     },
     "108": {
       "description": "TBD",
@@ -507,6 +507,32 @@
           "name": "GDE"
         }
       ],
+      "tags": [],
+      "title": "Software Engineer @ Kubrickology, Google Developer Expert"
+    },
+    {
+      "bio": "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
+      "company": "",
+      "companyLogo": "",
+      "country": "Portugal",
+      "featured": true,
+      "id": 7,
+      "name": "Sam Carecho",
+      "photoUrl": "../images/people/sam_carecho.jpg",
+      "shortBio": "Working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/samcarecho",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/samcarecho",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [],
       "tags": [],
       "title": "Software Engineer @ Kubrickology, Google Developer Expert"
     }
