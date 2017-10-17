@@ -38,12 +38,12 @@
         }
       ],
       "title": "Main Sponsor"
-    }, 
-    {
-      "title" : "Partners"
     },
     {
-      "title" : "Supporters"
+      "title": "Partners"
+    },
+    {
+      "title": "Supporters"
     },
     {
       "logos": [
@@ -63,7 +63,7 @@
           "url": "https://pplware.sapo.pt/"
         }
       ],
-      "title" : "Media Partner"
+      "title": "Media Partner"
     },
     {
       "logos": [
@@ -73,39 +73,10 @@
           "url": "http://pasteisdebelem.pt/"
         }
       ],
-      "title" : "Food&Drink"
-    } 
+      "title": "Food&Drink"
+    }
   ],
   "schedule": [
-    {
-      "date": "2017-11-10",
-      "dateReadable": "November 10",
-      "timeslots": [
-        {
-          "endTime": "19:30",
-          "sessions": [
-            [
-              132
-            ]
-          ],
-          "startTime": "19:15"
-        },
-        {
-          "endTime": "22:00",
-          "sessions": [
-            [
-              136
-            ]
-          ],
-          "startTime": "19:30"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Auditorium"
-        }
-      ]
-    },
     {
       "date": "2017-11-11",
       "dateReadable": "November 11",
@@ -113,36 +84,24 @@
         {
           "endTime": "10:00",
           "sessions": [
-            [
-              135
-            ]
           ],
           "startTime": "09:30"
         },
         {
           "endTime": "12:00",
           "sessions": [
-            [
-              114
-            ]
           ],
           "startTime": "10:00"
         },
         {
           "endTime": "14:00",
           "sessions": [
-            [
-              122
-            ]
           ],
           "startTime": "12:00"
         },
         {
           "endTime": "14:20",
           "sessions": [
-            [
-              104
-            ]
           ],
           "startTime": "14:00"
         },
@@ -150,10 +109,10 @@
           "endTime": "15:00",
           "sessions": [
             [
-              133
+              101
             ],
             [
-              128
+              102
             ]
           ],
           "startTime": "14:20"
@@ -162,10 +121,10 @@
           "endTime": "15:40",
           "sessions": [
             [
-              108
+              103
             ],
             [
-              128
+              104
             ]
           ],
           "startTime": "15:00"
@@ -174,10 +133,10 @@
           "endTime": "16:20",
           "sessions": [
             [
-              110
+              105
             ],
             [
-              123
+              106
             ]
           ],
           "startTime": "15:40"
@@ -186,10 +145,10 @@
           "endTime": "17:00",
           "sessions": [
             [
-              134
+              107
             ],
             [
-              128
+              108
             ]
           ],
           "startTime": "16:20"
@@ -197,9 +156,6 @@
         {
           "endTime": "17:20",
           "sessions": [
-            [
-              131
-            ]
           ],
           "startTime": "17:00"
         },
@@ -207,10 +163,10 @@
           "endTime": "18:00",
           "sessions": [
             [
-              115
+              110
             ],
             [
-              140
+              109
             ]
           ],
           "startTime": "17:20"
@@ -219,10 +175,10 @@
           "endTime": "18:40",
           "sessions": [
             [
-              115
+              112
             ],
             [
-              140
+              111
             ]
           ],
           "startTime": "18:00"
@@ -231,10 +187,10 @@
           "endTime": "19:20",
           "sessions": [
             [
-              115
+              113
             ],
             [
-              140
+              114
             ]
           ],
           "startTime": "18:40"
@@ -250,20 +206,12 @@
         },
         {
           "endTime": "20:45",
-          "sessions": [
-            [
-              115
-            ]
-          ],
+          "sessions": [],
           "startTime": "20:00"
         },
         {
           "endTime": "22:00",
-          "sessions": [
-            [
-              115
-            ]
-          ],
+          "sessions": [],
           "startTime": "20:45"
         }
       ],
@@ -279,9 +227,6 @@
         },
         {
           "title": "Community Lounge"
-        },
-        {
-          "title": "Main Hall"
         }
       ]
     }
@@ -289,14 +234,138 @@
   "sessions": {
     "101": {
       "description": "TBD",
-      "id": 140,
+      "id": 101,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [1],
+      "tags": []
+    },
+    "102": {
+      "description": "TBD",
+      "id": 102,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [2],
+      "tags": []
+    },
+    "103": {
+      "description": "TBD",
+      "id": 103,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [3],
+      "tags": []
+    },
+    "104": {
+      "description": "TBD",
+      "id": 104,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [4],
+      "tags": []
+    },
+    "105": {
+      "description": "TBD",
+      "id": 105,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [5],
+      "tags": []
+    },
+    "106": {
+      "description": "TBD",
+      "id": 106,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [6],
+      "tags": []
+    },
+    "107": {
+      "description": "TBD",
+      "id": 107,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [7],
+      "tags": []
+    },
+    "108": {
+      "description": "TBD",
+      "id": 108,
       "language": "English",
       "title": "TBD",
       "presentation": "",
       "speakers": [],
-      "tags": [
-        "Android"
-      ]
+      "tags": []
+    },
+    "109": {
+      "description": "TBD",
+      "id": 109,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "110": {
+      "description": "TBD",
+      "id": 110,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "111": {
+      "description": "TBD",
+      "id": 111,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "112": {
+      "description": "TBD",
+      "id": 112,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "113": {
+      "description": "TBD",
+      "id": 113,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "114": {
+      "description": "TBD",
+      "id": 114,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "115": {
+      "description": "TBD",
+      "id": 115,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
     }
   },
   "speakers": [
@@ -363,11 +432,13 @@
           "name": "Facebook"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/bianca-brancaleone",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/bianca-brancaleone",
+          "name": "GDE"
+        }
+      ],
       "tags": [],
       "title": "UX Freelancer and Consultant, Product Design GDE"
     },
@@ -393,11 +464,13 @@
           "name": "Twitter"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/david-cifuentes",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/david-cifuentes",
+          "name": "GDE"
+        }
+      ],
       "tags": [],
       "title": "Software Engineer @ Zalando SE, Google Developer Expert"
     },
@@ -428,12 +501,16 @@
           "name": "Geekonaut"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/martin-splitt",
-        "name" : "GDE"
-      } ],
-      "tags": ["Virtual Reality"],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/martin-splitt",
+          "name": "GDE"
+        }
+      ],
+      "tags": [
+        "Virtual Reality"
+      ],
       "title": "Head of Engineering @ Archilogic, Google Developer Expert"
     },
     {
@@ -463,11 +540,13 @@
           "name": "Website"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/bob-van-luijt",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/bob-van-luijt",
+          "name": "GDE"
+        }
+      ],
       "tags": [],
       "title": "Software Engineer @ Kubrickology, Google Developer Expert"
     }
@@ -551,7 +630,7 @@
         "ends": "November 5",
         "info": "",
         "name": "Regular",
-        "price": 5,
+        "price": 4,
         "soldOut": false,
         "starts": "September 1"
       },
