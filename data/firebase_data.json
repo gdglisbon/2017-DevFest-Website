@@ -84,36 +84,24 @@
         {
           "endTime": "10:00",
           "sessions": [
-            [
-              135
-            ]
           ],
           "startTime": "09:30"
         },
         {
           "endTime": "12:00",
           "sessions": [
-            [
-              114
-            ]
           ],
           "startTime": "10:00"
         },
         {
           "endTime": "14:00",
           "sessions": [
-            [
-              122
-            ]
           ],
           "startTime": "12:00"
         },
         {
           "endTime": "14:20",
           "sessions": [
-            [
-              104
-            ]
           ],
           "startTime": "14:00"
         },
@@ -121,10 +109,10 @@
           "endTime": "15:00",
           "sessions": [
             [
-              133
+              101
             ],
             [
-              128
+              102
             ]
           ],
           "startTime": "14:20"
@@ -133,10 +121,10 @@
           "endTime": "15:40",
           "sessions": [
             [
-              108
+              103
             ],
             [
-              128
+              104
             ]
           ],
           "startTime": "15:00"
@@ -145,10 +133,10 @@
           "endTime": "16:20",
           "sessions": [
             [
-              110
+              105
             ],
             [
-              123
+              106
             ]
           ],
           "startTime": "15:40"
@@ -157,10 +145,10 @@
           "endTime": "17:00",
           "sessions": [
             [
-              134
+              107
             ],
             [
-              128
+              108
             ]
           ],
           "startTime": "16:20"
@@ -168,9 +156,6 @@
         {
           "endTime": "17:20",
           "sessions": [
-            [
-              131
-            ]
           ],
           "startTime": "17:00"
         },
@@ -178,10 +163,10 @@
           "endTime": "18:00",
           "sessions": [
             [
-              115
+              110
             ],
             [
-              140
+              109
             ]
           ],
           "startTime": "17:20"
@@ -190,10 +175,10 @@
           "endTime": "18:40",
           "sessions": [
             [
-              115
+              112
             ],
             [
-              140
+              111
             ]
           ],
           "startTime": "18:00"
@@ -202,10 +187,10 @@
           "endTime": "19:20",
           "sessions": [
             [
-              115
+              113
             ],
             [
-              140
+              114
             ]
           ],
           "startTime": "18:40"
@@ -221,20 +206,12 @@
         },
         {
           "endTime": "20:45",
-          "sessions": [
-            [
-              115
-            ]
-          ],
+          "sessions": [],
           "startTime": "20:00"
         },
         {
           "endTime": "22:00",
-          "sessions": [
-            [
-              115
-            ]
-          ],
+          "sessions": [],
           "startTime": "20:45"
         }
       ],
@@ -261,7 +238,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [1],
       "tags": []
     },
     "102": {
@@ -270,7 +247,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [2],
       "tags": []
     },
     "103": {
@@ -279,7 +256,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [3],
       "tags": []
     },
     "104": {
@@ -288,7 +265,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [4],
       "tags": []
     },
     "105": {
@@ -297,7 +274,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [5],
       "tags": []
     },
     "106": {
@@ -306,7 +283,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [6],
       "tags": []
     },
     "107": {
@@ -315,7 +292,7 @@
       "language": "English",
       "title": "TBD",
       "presentation": "",
-      "speakers": [],
+      "speakers": [7],
       "tags": []
     },
     "108": {
