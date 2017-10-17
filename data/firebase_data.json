@@ -215,7 +215,7 @@
       "id": 103,
       "language": "Portuguese",
       "title": "UX4Devs",
-      "presentation": "UX",
+      "presentation": "",
       "speakers": [3],
       "tags": ["UX"]
     },
@@ -224,7 +224,7 @@
       "id": 104,
       "language": "English",
       "title": "Going API First on the Google Cloud with Connexion",
-      "presentation": "Intermediate",
+      "presentation": "",
       "speakers": [4],
       "tags": ["Web"]
     },
@@ -233,7 +233,7 @@
       "id": 105,
       "language": "English",
       "title": "Virtual Reality with A-Frame",
-      "presentation": "Beginner",
+      "presentation": "",
       "speakers": [5],
       "tags": ["Virtual Reality"]
     },
