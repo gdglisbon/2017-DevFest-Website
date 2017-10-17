@@ -193,6 +193,7 @@
   ],
   "sessions": {
     "101": {
+      "complexity" : "Beginner",
       "description": "The development world has gone Agile crazy. The de facto way to develop and launch software today is in sprints. Fantastic! Wait! say the CEO, the CMO and the Head of BD in unison! We still want you to provide a project plan with a list of activities, launch dates and milestones so we can plan our Go-to-Market strategy, our Comms plan and commit to our partners for the joint Launch campaign. You�re the captain of this ship e.g. the Project Manager. You figure it out! Let's talk about your unfair role in this new world (and why they pay you the big bucks to be in that position",
       "id": 101,
       "language": "English",
@@ -217,9 +218,10 @@
       "title": "UX4Devs",
       "presentation": "",
       "speakers": [3],
-      "tags": ["UX"]
+      "tags": ["UX/UI"]
     },
     "104": {
+      "complexity" : "Intermediate",
       "description": "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
       "id": 104,
       "language": "English",
@@ -229,6 +231,7 @@
       "tags": ["Web"]
     },
     "105": {
+      "complexity" : "Beginner",
       "description": "We will dive into WebVR using Mozilla's A-Frame library.",
       "id": 105,
       "language": "English",
@@ -253,7 +256,7 @@
       "title": "World Citizen",
       "presentation": "",
       "speakers": [7],
-      "tags": ["Experiences"]
+      "tags": []
     },
     "108": {
       "description": "TBD",
