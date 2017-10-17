@@ -200,7 +200,7 @@
       "title": "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!",
       "presentation": "",
       "speakers": [1],
-      "tags": ["Business"]
+      "tags": ["General"]
     },
     "102": {
       "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
@@ -209,7 +209,7 @@
       "title": "Dive deep into machine learning with TensorFlow",
       "presentation": "",
       "speakers": [2],
-      "tags": ["Artificial Intelligence"]
+      "tags": ["AI"]
     },
     "103": {
       "description": "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
@@ -218,7 +218,7 @@
       "title": "UX4Devs",
       "presentation": "",
       "speakers": [3],
-      "tags": ["UX/UI"]
+      "tags": ["UX"]
     },
     "104": {
       "complexity" : "Intermediate",
@@ -238,7 +238,7 @@
       "title": "Virtual Reality with A-Frame",
       "presentation": "",
       "speakers": [5],
-      "tags": ["Virtual Reality"]
+      "tags": ["VR"]
     },
     "106": {
       "description": "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.\nIn this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT.\n“Devices are so 2017, the future is a semantic Internet of Things”",
@@ -247,7 +247,7 @@
       "title": "A Semantic Internet of Things",
       "presentation": "",
       "speakers": [6],
-      "tags": []
+      "tags": ["IoT"]
     },
     "107": {
       "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
@@ -256,7 +256,7 @@
       "title": "World Citizen",
       "presentation": "",
       "speakers": [7],
-      "tags": []
+      "tags": ["General"]
     },
     "108": {
       "description": "TBD",
