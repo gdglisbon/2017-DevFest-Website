@@ -71,7 +71,7 @@
       "startTime" : "14:20"
     }, {
       "endTime" : "15:40",
-      "sessions" : [ [ 103 ], [ 999 ] ],
+      "sessions" : [ [ 103 ], [ 108 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "16:20",
@@ -79,7 +79,7 @@
       "startTime" : "15:40"
     }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 108 ], [ 107 ] ],
+      "sessions" : [ [ 999 ], [ 107 ] ],
       "startTime" : "16:20"
     }, {
       "endTime" : "17:20",
@@ -187,7 +187,7 @@
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 8 ],
-      "tags" : [ "Web" ],
+      "tags" : [ "Web", "Android" ],
       "title" : "Offline-first apps with WebComponents"
     },
     "109" : {
@@ -419,7 +419,7 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/samcarecho",
       "name" : "Twitter"
-    }, {
+    }]}, {
       "badges" : [ {
         "description" : "Android Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/amahdy-abdelaziz",
