@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "hoverboard-experimental",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "domain": "devfest2017-a169d.firebaseapp.com",
     "database": "https://devfest2017-a169d.firebaseio.com",
     "userSessionsPath": "/userSessions",
