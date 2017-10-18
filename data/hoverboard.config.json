@@ -3,8 +3,8 @@
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-82860335-1",
-    "dev": "UA-82860335-1"
+    "prod": "UA-82860335-7",
+    "dev": "UA-82860335-7"
   },
   "organizer": {
     "name": "GDG Lisbon",
