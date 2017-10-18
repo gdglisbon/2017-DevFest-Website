@@ -1,711 +1,495 @@
 {
-  "notifications": {
-    "messages": {
-      "1506364989": "ola"
+  "notifications" : {
+    "messages" : {
+      "1506364989" : "ola"
     },
-    "subscribers": {
-      "cOdgybS4_2I:APA91bGkMrI3Jh5z9020iQIor_JS_Pe1qkb54kKyWVKJP1YLU0xgRfD1ivvQvA-U2Vm4GXzJCEV9PeREytads8Uquiw5F7mVTMEEVgnw-tbgbt5nnCWzM3ovzyw5f7PaSVwOrdtZqh5G": true,
-      "cQgsCN7OZZc:APA91bH0E6LForOEFexW2T4otr_E9IwmIRG1Bw4qtWNBvKfSpt9LZXfkbAg3BySDJmM6_diAiNAnex9U1qT0ujxjBPZeTizVpbmZIGQn9C2qy8N5j3S0AoOMj_KGbdpRoioggSnOcARf": true,
-      "cdV26yM_Kzg:APA91bEfyg4OD3L0xW29B7xkkxHM2OsRoQENTShf0sDBzh88Bo8xczhIKHz2IRCjLLn6U_4mrAXMmAZF4dyYztW9hahEbpCcc8gelk27wOS9FGQMquTvngK2SULRcxVV_0tXGZzI5oms": true,
-      "cqKKFNMpLJM:APA91bHdWa7-MSxqe9ObcWiEWuGBpwQYmHIEaMk9dNbbCQo6qPVENXUon8C7vVn1VQNjLb3d1cOrGDXSuO67brTr6k4QoeFl2rXGCy7L2BWc45SorPAVZhVK3g-woRwgBypOx8O7YRHY": true,
-      "da6_rZL3G4U:APA91bF-j6GL45XmPuWK1z3-N-JI7i-0Hue7cxZFdP46bGgRd26beGmWA_mCrEIG0og-2of6ImalPZHEZiT7x7Ul3UHDJnzpxtcjnzEmNpH4P2gUxEizw93SnTkN9JswM2yGKV7it3nw": true
+    "subscribers" : {
+      "cOdgybS4_2I:APA91bGkMrI3Jh5z9020iQIor_JS_Pe1qkb54kKyWVKJP1YLU0xgRfD1ivvQvA-U2Vm4GXzJCEV9PeREytads8Uquiw5F7mVTMEEVgnw-tbgbt5nnCWzM3ovzyw5f7PaSVwOrdtZqh5G" : true,
+      "cQgsCN7OZZc:APA91bH0E6LForOEFexW2T4otr_E9IwmIRG1Bw4qtWNBvKfSpt9LZXfkbAg3BySDJmM6_diAiNAnex9U1qT0ujxjBPZeTizVpbmZIGQn9C2qy8N5j3S0AoOMj_KGbdpRoioggSnOcARf" : true,
+      "cdV26yM_Kzg:APA91bEfyg4OD3L0xW29B7xkkxHM2OsRoQENTShf0sDBzh88Bo8xczhIKHz2IRCjLLn6U_4mrAXMmAZF4dyYztW9hahEbpCcc8gelk27wOS9FGQMquTvngK2SULRcxVV_0tXGZzI5oms" : true,
+      "cqKKFNMpLJM:APA91bHdWa7-MSxqe9ObcWiEWuGBpwQYmHIEaMk9dNbbCQo6qPVENXUon8C7vVn1VQNjLb3d1cOrGDXSuO67brTr6k4QoeFl2rXGCy7L2BWc45SorPAVZhVK3g-woRwgBypOx8O7YRHY" : true,
+      "da6_rZL3G4U:APA91bF-j6GL45XmPuWK1z3-N-JI7i-0Hue7cxZFdP46bGgRd26beGmWA_mCrEIG0og-2of6ImalPZHEZiT7x7Ul3UHDJnzpxtcjnzEmNpH4P2gUxEizw93SnTkN9JswM2yGKV7it3nw" : true
     }
   },
-  "partners": [
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/gdglisbon.png",
-          "name": "GDG Lisboa",
-          "url": "https://gdglisbon.xyz",
-          "width": 170
-        },
-        {
-          "logoUrl": "../images/logos/wtmlogo.png",
-          "name": "WTM Lisboa",
-          "url": "https://www.facebook.com/wtmlisboa/",
-          "width": 170
-        }
-      ],
-      "title": "Promoters"
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdglisbon.png",
+      "name" : "GDG Lisboa",
+      "url" : "https://gdglisbon.xyz",
+      "width" : 170
+    }, {
+      "logoUrl" : "../images/logos/wtmlogo.png",
+      "name" : "WTM Lisboa",
+      "url" : "https://www.facebook.com/wtmlisboa/",
+      "width" : 170
+    } ],
+    "title" : "Promoters"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    } ],
+    "title" : "Main Sponsor"
+  }, {
+    "title" : "Partners"
+  }, {
+    "title" : "Supporters"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/abertomadrugada.jpg",
+      "name" : "Aberto até Madrugada",
+      "url" : "http://abertoatedemadrugada.com/"
+    }, {
+      "logoUrl" : "../images/logos/canalsuperior.jpg",
+      "name" : "Canal Superior",
+      "url" : "http://www.canalsuperior.pt/"
+    }, {
+      "logoUrl" : "../images/logos/pplware.png",
+      "name" : "PPLWare",
+      "url" : "https://pplware.sapo.pt/"
+    } ],
+    "title" : "Media Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
+      "name" : "Pastéis de Belém",
+      "url" : "http://pasteisdebelem.pt/"
+    } ],
+    "title" : "Food&Drink"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-11-11",
+    "dateReadable" : "November 11",
+    "timeslots" : [ {
+      "endTime" : "14:20",
+      "sessions" : [ [ 997 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:00",
+      "sessions" : [ [ 101 ], [ 105 ] ],
+      "startTime" : "14:20"
+    }, {
+      "endTime" : "15:40",
+      "sessions" : [ [ 103 ], [ 999 ] ],
+      "startTime" : "15:00"
+    }, {
+      "endTime" : "16:20",
+      "sessions" : [ [ 999 ], [ 102 ] ],
+      "startTime" : "15:40"
+    }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 108 ], [ 107 ] ],
+      "startTime" : "16:20"
+    }, {
+      "endTime" : "17:20",
+      "sessions" : [ [ 997 ] ],
+      "startTime" : "17:00"
+    }, {
+      "endTime" : "18:00",
+      "sessions" : [ [ 110 ], [ 106 ] ],
+      "startTime" : "17:20"
+    }, {
+      "endTime" : "18:40",
+      "sessions" : [ [ 112 ], [ 104 ] ],
+      "startTime" : "18:00"
+    }, {
+      "endTime" : "19:20",
+      "sessions" : [ [ 113 ], [ 114 ] ],
+      "startTime" : "18:40"
+    }, {
+      "endTime" : "20:00",
+      "sessions" : [ [ 999 ] ],
+      "startTime" : "19:20"
+    } ],
+    "tracks" : [ {
+      "title" : "Auditorium One Green"
+    }, {
+      "title" : "Auditorium Two Blue"
+    }, {
+      "title" : "Workshop Room"
+    }, {
+      "title" : "Community Lounge"
+    }, {
+      "title" : "Main Hall"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "The development world has gone Agile crazy. The de facto way to develop and launch software today is in sprints. Fantastic! Wait! say the CEO, the CMO and the Head of BD in unison! We still want you to provide a project plan with a list of activities, launch dates and milestones so we can plan our Go-to-Market strategy, our Comms plan and commit to our partners for the joint Launch campaign. You�re the captain of this ship e.g. the Project Manager. You figure it out! Let's talk about your unfair role in this new world (and why they pay you the big bucks to be in that position",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 1 ],
+      "tags" : [ "General" ],
+      "title" : "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!"
     },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        }
-      ],
-      "title": "Main Sponsor"
+    "102" : {
+      "description" : "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
+      "id" : 102,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "AI" ],
+      "title" : "Dive deep into machine learning with TensorFlow"
     },
-    {
-      "title": "Partners"
+    "103" : {
+      "description" : "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
+      "id" : 103,
+      "language" : "Portuguese",
+      "presentation" : "",
+      "speakers" : [ 3 ],
+      "tags" : [ "UX" ],
+      "title" : "UX4Devs"
     },
-    {
-      "title": "Supporters"
+    "104" : {
+      "complexity" : "Intermediate",
+      "description" : "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "Web" ],
+      "title" : "Going API First on the Google Cloud with Connexion"
     },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/abertomadrugada.jpg",
-          "name": "Aberto até Madrugada",
-          "url": "http://abertoatedemadrugada.com/"
-        },
-        {
-          "logoUrl": "../images/logos/canalsuperior.jpg",
-          "name": "Canal Superior",
-          "url": "http://www.canalsuperior.pt/"
-        },
-        {
-          "logoUrl": "../images/logos/pplware.png",
-          "name": "PPLWare",
-          "url": "https://pplware.sapo.pt/"
-        }
-      ],
-      "title": "Media Partner"
+    "105" : {
+      "complexity" : "Beginner",
+      "description" : "We will dive into WebVR using Mozilla's A-Frame library.",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 5 ],
+      "tags" : [ "VR" ],
+      "title" : "Virtual Reality with A-Frame"
     },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/pasteis_de_belem_min.jpg",
-          "name": "Pastéis de Belém",
-          "url": "http://pasteisdebelem.pt/"
-        }
-      ],
-      "title": "Food&Drink"
-    }
-  ],
-  "schedule": [
-    {
-      "date": "2017-11-11",
-      "dateReadable": "November 11",
-      "timeslots": [
-        {
-          "endTime": "14:20",
-          "sessions": [
-            [
-              997
-            ]
-          ],
-          "startTime": "14:00"
-        },
-        {
-          "endTime": "15:00",
-          "sessions": [
-            [
-              101
-            ],
-            [
-              105
-            ]
-          ],
-          "startTime": "14:20"
-        },
-        {
-          "endTime": "15:40",
-          "sessions": [
-            [
-              103
-            ],
-            [
-              104
-            ]
-          ],
-          "startTime": "15:00"
-        },
-        {
-          "endTime": "16:20",
-          "sessions": [
-            [
-              999
-            ],
-            [
-              102
-            ]
-          ],
-          "startTime": "15:40"
-        },
-        {
-          "endTime": "17:00",
-          "sessions": [
-            [
-              108
-            ],
-            [
-              107
-            ]
-          ],
-          "startTime": "16:20"
-        },
-        {
-          "endTime": "17:20",
-          "sessions": [
-            [
-              997
-            ]
-          ],
-          "startTime": "17:00"
-        },
-        {
-          "endTime": "18:00",
-          "sessions": [
-            [
-              110
-            ],
-            [
-              106
-            ]
-          ],
-          "startTime": "17:20"
-        },
-        {
-          "endTime": "18:40",
-          "sessions": [
-            [
-              112
-            ],
-            [
-              111
-            ]
-          ],
-          "startTime": "18:00"
-        },
-        {
-          "endTime": "19:20",
-          "sessions": [
-            [
-              113
-            ],
-            [
-              114
-            ]
-          ],
-          "startTime": "18:40"
-        },
-        {
-          "endTime": "20:00",
-          "sessions": [
-            [
-              999
-            ]
-          ],
-          "startTime": "19:20"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Auditorium One Green"
-        },
-        {
-          "title": "Auditorium Two Blue"
-        },
-        {
-          "title": "Workshop Room"
-        },
-        {
-          "title": "Community Lounge"
-        },
-        {
-          "title": "Main Hall"
-        }
-      ]
-    }
-  ],
-  "sessions": {
-    "101": {
-      "complexity": "Beginner",
-      "description": "The development world has gone Agile crazy. The de facto way to develop and launch software today is in sprints. Fantastic! Wait! say the CEO, the CMO and the Head of BD in unison! We still want you to provide a project plan with a list of activities, launch dates and milestones so we can plan our Go-to-Market strategy, our Comms plan and commit to our partners for the joint Launch campaign. You�re the captain of this ship e.g. the Project Manager. You figure it out! Let's talk about your unfair role in this new world (and why they pay you the big bucks to be in that position",
-      "id": 101,
-      "language": "English",
-      "title": "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!",
-      "presentation": "",
-      "speakers": [
-        1
-      ],
-      "tags": [
-        "General"
-      ]
+    "106" : {
+      "description" : "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.\nIn this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT.\n“Devices are so 2017, the future is a semantic Internet of Things”",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 6 ],
+      "tags" : [ "iot" ],
+      "title" : "A Semantic Internet of Things"
     },
-    "102": {
-      "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
-      "id": 102,
-      "language": "English",
-      "title": "Dive deep into machine learning with TensorFlow",
-      "presentation": "",
-      "speakers": [
-        2
-      ],
-      "tags": [
-        "AI"
-      ]
+    "107" : {
+      "description" : "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "General" ],
+      "title" : "World Citizen"
     },
-    "103": {
-      "description": "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
-      "id": 103,
-      "language": "Portuguese",
-      "title": "UX4Devs",
-      "presentation": "",
-      "speakers": [
-        3
-      ],
-      "tags": [
-        "UX"
-      ]
+    "108" : {
+      "description" : "TBD",
+      "id" : 108,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "104": {
-      "complexity": "Intermediate",
-      "description": "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
-      "id": 104,
-      "language": "English",
-      "title": "Going API First on the Google Cloud with Connexion",
-      "presentation": "",
-      "speakers": [
-        4
-      ],
-      "tags": [
-        "Web"
-      ]
+    "109" : {
+      "description" : "TBD",
+      "id" : 109,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "105": {
-      "complexity": "Beginner",
-      "description": "We will dive into WebVR using Mozilla's A-Frame library.",
-      "id": 105,
-      "language": "English",
-      "title": "Virtual Reality with A-Frame",
-      "presentation": "",
-      "speakers": [
-        5
-      ],
-      "tags": [
-        "VR"
-      ]
+    "110" : {
+      "description" : "TBD",
+      "id" : 110,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "106": {
-      "description": "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.\nIn this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT.\n“Devices are so 2017, the future is a semantic Internet of Things”",
-      "id": 106,
-      "language": "English",
-      "title": "A Semantic Internet of Things",
-      "presentation": "",
-      "speakers": [
-        6
-      ],
-      "tags": [
-        "iot"
-      ]
+    "111" : {
+      "description" : "TBD",
+      "id" : 111,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "107": {
-      "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
-      "id": 107,
-      "language": "English",
-      "title": "World Citizen",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "General"
-      ]
+    "112" : {
+      "description" : "TBD",
+      "id" : 112,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "108": {
-      "description": "TBD",
-      "id": 108,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
+    "113" : {
+      "description" : "TBD",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "109": {
-      "description": "TBD",
-      "id": 109,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
+    "114" : {
+      "description" : "TBD",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "110": {
-      "description": "TBD",
-      "id": 110,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
+    "115" : {
+      "description" : "TBD",
+      "id" : 115,
+      "language" : "English",
+      "presentation" : "",
+      "title" : "TBD"
     },
-    "111": {
-      "description": "TBD",
-      "id": 111,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
+    "997" : {
+      "description" : "TBA",
+      "id" : 997,
+      "language" : "English",
+      "tags" : [ "Information" ],
+      "title" : "TBA"
     },
-    "112": {
-      "description": "TBD",
-      "id": 112,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
+    "998" : {
+      "description" : "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
+      "id" : 998,
+      "language" : "English",
+      "tags" : [ "Information" ],
+      "title" : "Check-In Open"
     },
-    "113": {
-      "description": "TBD",
-      "id": 113,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
-    },
-    "114": {
-      "description": "TBD",
-      "id": 114,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
-    },
-    "115": {
-      "description": "TBD",
-      "id": 115,
-      "language": "English",
-      "title": "TBD",
-      "presentation": "",
-      "speakers": [],
-      "tags": []
-    },
-    "997": {
-      "description": "TBA",
-      "id": 997,
-      "language": "English",
-      "title": "TBA",
-      "tags": [
-        "Information"
-      ]
-    },
-    "998": {
-      "description": "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
-      "id": 998,
-      "language": "English",
-      "title": "Check-In Open",
-      "tags": [
-        "Information"
-      ]
-    },
-    "999": {
-      "description": "TBD",
-      "id": 999,
-      "language": "English",
-      "title": "TBD"
+    "999" : {
+      "description" : "TBD",
+      "id" : 999,
+      "language" : "English",
+      "title" : "TBD"
     }
   },
-  "speakers": [
-    null,
-    {
-      "bio": "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype, managing the delivery of Online Payments programmes mainly in Emerging markets, enabling millions of users to buy Skype paid services. In my spare time, I run Charub, an early stage Social Enterprise raising money for charities through the use of online advertising and social media.\n \nI few years ago, I was a Project Manager and Developer at e-pay, a Euronet Worldwide company, working on top-up integration projects with Retailers such as Tesco, Sainsbury's and Asda and service providers like Vodafone, Orange and Apple iTunes.\n \nBefore my UK adventures, I lived in South Africa for a couple of years where I was a Computer Science instructor in a Pretoria college. My first work experience was in my native Portugal as a Computer Science lecturer at the University I graduated from with a BA+Honours in Computer Science and Business Management.",
-      "company": "DSSC Digital Software Solutions",
-      "companyLogo": "",
-      "country": "Portugal",
-      "featured": true,
-      "id": 1,
-      "name": "Ana Ribeiro",
-      "photoUrl": "../images/people/ana_ribeiro_min.jpg",
-      "shortBio": "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype...",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "http://uk.linkedin.com/in/anaribeiroUK",
-          "name": "LinkedIn"
-        }
-      ],
-      "tags": [],
-      "title": "Head of Operations & PMO"
-    },
-    {
-      "bio": "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
-      "company": "",
-      "companyLogo": "",
-      "country": "Portugal",
-      "featured": true,
-      "id": 2,
-      "name": "Mário Cordeiro",
-      "photoUrl": "../images/people/mario_cordeiro_min.jpg",
-      "shortBio": "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/mariocordeiro",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/mmfcordeiro",
-          "name": "Twitter"
-        }
-      ],
-      "tags": [],
-      "title": ""
-    },
-    {
-      "bio": "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
-      "company": "",
-      "companyLogo": "",
-      "country": "Brazil",
-      "featured": true,
-      "id": 3,
-      "name": "Bianca Brancaleone ",
-      "photoUrl": "../images/people/biancab.jpg",
-      "shortBio": "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
-      "socials": [
-        {
-          "icon": "facebook",
-          "link": "https://www.facebook.com/bianca.brancaleone",
-          "name": "Facebook"
-        }
-      ],
-      "badges": [
-        {
-          "description": "Android Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/bianca-brancaleone",
-          "name": "GDE"
-        }
-      ],
-      "tags": [],
-      "title": "UX Freelancer and Consultant, Product Design GDE"
-    },
-    {
-      "bio": "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
-      "company": "Zalando SE",
-      "companyLogo": "https://mosaic02.ztat.net/nvg/z-header-fragment/zalando-logo/en-GB/logodefault.svg ",
-      "country": "Germany",
-      "featured": true,
-      "id": 4,
-      "name": "David Cifuentes",
-      "photoUrl": "../images/people/david_cifuentes_min.jpg",
-      "shortBio": "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud.",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/dcifuen/",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/dcifuen",
-          "name": "Twitter"
-        }
-      ],
-      "badges": [
-        {
-          "description": "Android Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/david-cifuentes",
-          "name": "GDE"
-        }
-      ],
-      "tags": [],
-      "title": "Software Engineer @ Zalando SE, Google Developer Expert"
-    },
-    {
-      "bio": "Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields. He works as a software engineer at Archilogic in front- and backend. He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit. Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.",
-      "company": "Archilogic",
-      "companyLogo": "",
-      "country": "Switzerland",
-      "featured": true,
-      "id": 5,
-      "name": "Martin Splitt",
-      "photoUrl": "/images/people/martin_splitt_min.jpg",
-      "shortBio": "Martin is pretty decent at humaning and pretty good at computering,so he decided to use his computering to improve his and other's humaning. He loves the open web and open source and helps to make things better with, but not limited to, code.",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/g33konaut",
-          "name": "Github"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/g33konaut",
-          "name": "Twitter"
-        },
-        {
-          "icon": "website",
-          "link": "http://geekonaut.de/",
-          "name": "Geekonaut"
-        }
-      ],
-      "badges": [
-        {
-          "description": "Android Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/martin-splitt",
-          "name": "GDE"
-        }
-      ],
-      "tags": [
-        "Virtual Reality"
-      ],
-      "title": "Head of Engineering @ Archilogic, Google Developer Expert"
-    },
-    {
-      "bio": "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.\nCurrently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
-      "company": "Kubrickology",
-      "companyLogo": "",
-      "country": "Netherlands",
-      "featured": true,
-      "id": 6,
-      "name": "Bob van Luijt",
-      "photoUrl": "../images/people/bob_van_luijt_min.jpg",
-      "shortBio": "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree.",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/bobvanluijt",
-          "name": "Github"
-        },
-        {
-          "icon": "twitter",
-          "link": "twitter.com/bobvanluijt",
-          "name": "Twitter"
-        },
-        {
-          "icon": "website",
-          "link": "www.bob.wtf",
-          "name": "Website"
-        }
-      ],
-      "badges": [
-        {
-          "description": "Android Google Developer Expert",
-          "link": "https://developers.google.com/experts/people/bob-van-luijt",
-          "name": "GDE"
-        }
-      ],
-      "tags": [],
-      "title": "Software Engineer @ Kubrickology, Google Developer Expert"
-    },
-    {
-      "bio": "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
-      "company": "",
-      "companyLogo": "",
-      "country": "Portugal",
-      "featured": true,
-      "id": 7,
-      "name": "Sam Carecho",
-      "photoUrl": "../images/people/sam_carecho.jpg",
-      "shortBio": "Working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/samcarecho",
-          "name": "Github"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/samcarecho",
-          "name": "Twitter"
-        }
-      ],
-      "badges": [],
-      "tags": [],
-      "title": "Software Engineer @ Kubrickology, Google Developer Expert"
-    }
-  ],
-  "team": [
-    {
-      "members": [
-        {
-          "name": "Ana Parada",
-          "photoUrl": "../images/people/ana_parada.png",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dizparada",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.dizparada.com",
-              "name": "Website"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
-          "name": "Inês Armada Brás",
-          "photoUrl": "../images/people/ines_armada_bras.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/inesarmadabras",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
-          "name": "Daniel Leal",
-          "photoUrl": "../images/people/daniel_leal.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/danielgekk",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
-          "name": "Filipe Barroso",
-          "photoUrl": "../images/people/filipe_barroso.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/abarroso",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        },
-        {
-          "name": "Filipe Mendes",
-          "photoUrl": "../images/people/filipe_mendes.jpg",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/fmendes6",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Organizer"
-        }
-      ],
-      "title": "Core Team"
-    }
-  ],
-  "tickets": {
-    "elements": [
-      {
-        "currency": "€",
-        "ends": "November 5",
-        "info": "",
-        "name": "Regular",
-        "price": 4,
-        "soldOut": false,
-        "starts": "September 1"
-      },
-      {
-        "currency": "€",
-        "ends": "November 5",
-        "name": "Benevolent",
-        "price": 30,
-        "soldOut": false,
-        "starts": "September 1"
-      }
-    ],
-    "url": "https://2event.com/en/events/1010022"
-  },
-  "videos": []
+  "speakers" : [ null, {
+    "bio" : "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype, managing the delivery of Online Payments programmes mainly in Emerging markets, enabling millions of users to buy Skype paid services. In my spare time, I run Charub, an early stage Social Enterprise raising money for charities through the use of online advertising and social media.\n \nI few years ago, I was a Project Manager and Developer at e-pay, a Euronet Worldwide company, working on top-up integration projects with Retailers such as Tesco, Sainsbury's and Asda and service providers like Vodafone, Orange and Apple iTunes.\n \nBefore my UK adventures, I lived in South Africa for a couple of years where I was a Computer Science instructor in a Pretoria college. My first work experience was in my native Portugal as a Computer Science lecturer at the University I graduated from with a BA+Honours in Computer Science and Business Management.",
+    "company" : "DSSC Digital Software Solutions",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Ana Ribeiro",
+    "photoUrl" : "../images/people/ana_ribeiro_min.jpg",
+    "shortBio" : "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "http://uk.linkedin.com/in/anaribeiroUK",
+      "name" : "LinkedIn"
+    } ],
+    "title" : "Head of Operations & PMO"
+  }, {
+    "bio" : "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Mário Cordeiro",
+    "photoUrl" : "../images/people/mario_cordeiro_min.jpg",
+    "shortBio" : "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mariocordeiro",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mmfcordeiro",
+      "name" : "Twitter"
+    } ],
+    "title" : ""
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/bianca-brancaleone",
+      "name" : "GDE"
+    } ],
+    "bio" : "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Brazil",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Bianca Brancaleone ",
+    "photoUrl" : "../images/people/biancab.jpg",
+    "shortBio" : "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/bianca.brancaleone",
+      "name" : "Facebook"
+    } ],
+    "title" : "UX Freelancer and Consultant, Product Design GDE"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/david-cifuentes",
+      "name" : "GDE"
+    } ],
+    "bio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from marketing tech to enterprise software to IoT. In his spare time he enjoys travelling, running and cycling.",
+    "company" : "Zalando SE",
+    "companyLogo" : "https://mosaic02.ztat.net/nvg/z-header-fragment/zalando-logo/en-GB/logodefault.svg ",
+    "country" : "Germany",
+    "featured" : true,
+    "id" : 4,
+    "name" : "David Cifuentes",
+    "photoUrl" : "../images/people/david_cifuentes_min.jpg",
+    "shortBio" : "David is a Software Engineer at Zalando SE and part of the Google Developer Expert (GDE) program for Google Cloud.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dcifuen/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/dcifuen",
+      "name" : "Twitter"
+    } ],
+    "title" : "Software Engineer @ Zalando SE, Google Developer Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/martin-splitt",
+      "name" : "GDE"
+    } ],
+    "bio" : "Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields. He works as a software engineer at Archilogic in front- and backend. He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit. Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.",
+    "company" : "Archilogic",
+    "companyLogo" : "",
+    "country" : "Switzerland",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Martin Splitt",
+    "photoUrl" : "/images/people/martin_splitt_min.jpg",
+    "shortBio" : "Martin is pretty decent at humaning and pretty good at computering,so he decided to use his computering to improve his and other's humaning. He loves the open web and open source and helps to make things better with, but not limited to, code.",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/g33konaut",
+      "name" : "Github"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/g33konaut",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://geekonaut.de/",
+      "name" : "Geekonaut"
+    } ],
+    "tags" : [ "Virtual Reality" ],
+    "title" : "Head of Engineering @ Archilogic, Google Developer Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/bob-van-luijt",
+      "name" : "GDE"
+    } ],
+    "bio" : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.\nCurrently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
+    "company" : "Kubrickology",
+    "companyLogo" : "",
+    "country" : "Netherlands",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Bob van Luijt",
+    "photoUrl" : "../images/people/bob_van_luijt_min.jpg",
+    "shortBio" : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree.",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/bobvanluijt",
+      "name" : "Github"
+    }, {
+      "icon" : "twitter",
+      "link" : "twitter.com/bobvanluijt",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "www.bob.wtf",
+      "name" : "Website"
+    } ],
+    "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
+  }, {
+    "bio" : "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Sam Carecho",
+    "photoUrl" : "../images/people/sam_carecho.jpg",
+    "shortBio" : "Working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/samcarecho",
+      "name" : "Github"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/samcarecho",
+      "name" : "Twitter"
+    } ],
+    "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Ana Parada",
+      "photoUrl" : "../images/people/ana_parada.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dizparada",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.dizparada.com",
+        "name" : "Website"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "Inês Armada Brás",
+      "photoUrl" : "../images/people/ines_armada_bras.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/inesarmadabras",
+        "name" : "Twitter"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "Daniel Leal",
+      "photoUrl" : "../images/people/daniel_leal.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/danielgekk",
+        "name" : "Twitter"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "Filipe Barroso",
+      "photoUrl" : "../images/people/filipe_barroso.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/abarroso",
+        "name" : "Twitter"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "Filipe Mendes",
+      "photoUrl" : "../images/people/filipe_mendes.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/fmendes6",
+        "name" : "Twitter"
+      } ],
+      "title" : "Organizer"
+    } ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "€",
+      "ends" : "November 5",
+      "info" : "",
+      "name" : "Regular",
+      "price" : 4,
+      "soldOut" : false,
+      "starts" : "September 1"
+    }, {
+      "currency" : "€",
+      "ends" : "November 5",
+      "name" : "Benevolent",
+      "price" : 30,
+      "soldOut" : false,
+      "starts" : "September 1"
+    } ],
+    "url" : "https://2event.com/en/events/1010022"
+  }
 }
