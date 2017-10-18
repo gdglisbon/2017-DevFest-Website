@@ -82,21 +82,6 @@
       "dateReadable": "November 11",
       "timeslots": [
         {
-          "endTime": "10:00",
-          "sessions": [ [998] ],
-          "startTime": "09:30"
-        },
-        {
-          "endTime": "12:00",
-          "sessions": [ [999] ],
-          "startTime": "10:00"
-        },
-        {
-          "endTime": "14:00",
-          "sessions": [ [997] ],
-          "startTime": "12:00"
-        },
-        {
           "endTime": "14:20",
           "sessions": [ [997] ],
           "startTime": "14:00"
