@@ -1,5 +1,5 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devfest.gdglisbon.xyz/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
   "analytics": {
@@ -20,13 +20,14 @@
     "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "domain": "devfest2017-a169d.firebaseapp.com",
     "database": "https://devfest2017-a169d.firebaseio.com",
+    "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://google.us13.list-manage.com/subscribe/post?u=ab348098372d2b33687f05541&amp;id=4a202ed14d",
+    "name": "b_ab348098372d2b33687f05541_4a202ed14d"
   },
   "dateFormat": {
     "locale": "en-US",
@@ -34,7 +35,7 @@
   },
   "hashtag": "devfestlx",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "https://goo.gl/9vsbjc",
+  "partnershipProposition": "http://bit.ly/2wRR9FT",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -76,7 +77,7 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAfNLqCdgBC13Q0tU4eGev5l2Y38zZ6e1k",
     "name": "Portugal Telecom",
     "address": "Avenida Fontes Pereira de Melo, 40, 1069-300 Lisboa",
     "link": "https://www.google.pt/maps/place/Av.+Fontes+Pereira+de+Melo+37,+1050-010+Lisboa/@38.7308998,-9.14664,191m/data=!3m2!1e3!4b1!4m5!3m4!1s0xd193375825b5627:0xbb29162f7f7db34!8m2!3d38.7308998!4d-9.1460927",
