@@ -83,7 +83,7 @@
       "timeslots": [
         {
           "endTime": "10:00",
-          "sessions": [ [999] ],
+          "sessions": [ [998] ],
           "startTime": "09:30"
         },
         {
@@ -259,82 +259,88 @@
       "tags": ["General"]
     },
     "108": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 108,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "109": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 109,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "110": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 110,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "111": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 111,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "112": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 112,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "113": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 113,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "114": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 114,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "115": {
-      "description": "TBD",
+      "description": "TBA",
       "id": 115,
       "language": "English",
-      "title": "TBD",
+      "title": "TBA",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
+    "998": {
+      "description" : "The registration guiché is open for check-in, if closed, you are able to make the check-in in the Community Lounge.",
+      "id" : 998,
+      "title" : "Registration Guiché Open",
+      "tags": ["Information"]
+    },
     "999": {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 999,
       "language" : "English",
-      "title" : "TBD"
+      "title" : "TBA"
     }
   },
   "speakers": [
