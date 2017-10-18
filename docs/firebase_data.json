@@ -38,12 +38,12 @@
         }
       ],
       "title": "Main Sponsor"
-    }, 
-    {
-      "title" : "Partners"
     },
     {
-      "title" : "Supporters"
+      "title": "Partners"
+    },
+    {
+      "title": "Supporters"
     },
     {
       "logos": [
@@ -63,7 +63,7 @@
           "url": "https://pplware.sapo.pt/"
         }
       ],
-      "title" : "Media Partner"
+      "title": "Media Partner"
     },
     {
       "logos": [
@@ -73,156 +73,72 @@
           "url": "http://pasteisdebelem.pt/"
         }
       ],
-      "title" : "Food&Drink"
-    } 
+      "title": "Food&Drink"
+    }
   ],
   "schedule": [
-    {
-      "date": "2017-11-10",
-      "dateReadable": "November 10",
-      "timeslots": [
-        {
-          "endTime": "19:30",
-          "sessions": [
-            [
-              132
-            ]
-          ],
-          "startTime": "19:15"
-        },
-        {
-          "endTime": "22:00",
-          "sessions": [
-            [
-              136
-            ]
-          ],
-          "startTime": "19:30"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Auditorium"
-        }
-      ]
-    },
     {
       "date": "2017-11-11",
       "dateReadable": "November 11",
       "timeslots": [
         {
           "endTime": "10:00",
-          "sessions": [
-            [
-              135
-            ]
-          ],
+          "sessions": [ [998] ],
           "startTime": "09:30"
         },
         {
           "endTime": "12:00",
-          "sessions": [
-            [
-              114
-            ]
-          ],
+          "sessions": [ [999] ],
           "startTime": "10:00"
         },
         {
           "endTime": "14:00",
-          "sessions": [
-            [
-              122
-            ]
-          ],
+          "sessions": [ [997] ],
           "startTime": "12:00"
         },
         {
           "endTime": "14:20",
-          "sessions": [
-            [
-              104
-            ]
-          ],
+          "sessions": [ [997] ],
           "startTime": "14:00"
         },
         {
           "endTime": "15:00",
-          "sessions": [
-            [
-              133
-            ],
-            [
-              128
-            ]
-          ],
+          "sessions": [ [101], [102]],
           "startTime": "14:20"
         },
         {
           "endTime": "15:40",
-          "sessions": [
-            [
-              108
-            ],
-            [
-              128
-            ]
-          ],
+          "sessions": [ [103], [104]],
           "startTime": "15:00"
         },
         {
           "endTime": "16:20",
-          "sessions": [
-            [
-              110
-            ],
-            [
-              123
-            ]
-          ],
+          "sessions": [ [105], [106]],
           "startTime": "15:40"
         },
         {
           "endTime": "17:00",
-          "sessions": [
-            [
-              134
-            ],
-            [
-              128
-            ]
-          ],
+          "sessions": [ [107], [108]],
           "startTime": "16:20"
         },
         {
           "endTime": "17:20",
-          "sessions": [
-            [
-              131
-            ]
-          ],
+          "sessions": [ [997] ],
           "startTime": "17:00"
         },
         {
           "endTime": "18:00",
-          "sessions": [
-            [
-              115
-            ],
-            [
-              140
-            ]
-          ],
+          "sessions": [ [110], [109]],
           "startTime": "17:20"
         },
         {
           "endTime": "18:40",
           "sessions": [
             [
-              115
+              112
             ],
             [
-              140
+              111
             ]
           ],
           "startTime": "18:00"
@@ -231,10 +147,10 @@
           "endTime": "19:20",
           "sessions": [
             [
-              115
+              113
             ],
             [
-              140
+              114
             ]
           ],
           "startTime": "18:40"
@@ -243,39 +159,21 @@
           "endTime": "20:00",
           "sessions": [
             [
-              115
+              999
             ]
           ],
           "startTime": "19:20"
-        },
-        {
-          "endTime": "20:45",
-          "sessions": [
-            [
-              115
-            ]
-          ],
-          "startTime": "20:00"
-        },
-        {
-          "endTime": "22:00",
-          "sessions": [
-            [
-              115
-            ]
-          ],
-          "startTime": "20:45"
         }
       ],
       "tracks": [
         {
-          "title": "Auditorium Green"
+          "title": "Auditorium One Green"
         },
         {
-          "title": "Auditorium Blue"
+          "title": "Auditorium Two Blue"
         },
         {
-          "title": "Sala Nobre"
+          "title": "Workshop Room"
         },
         {
           "title": "Community Lounge"
@@ -288,15 +186,162 @@
   ],
   "sessions": {
     "101": {
+      "complexity" : "Beginner",
+      "description": "The development world has gone Agile crazy. The de facto way to develop and launch software today is in sprints. Fantastic! Wait! say the CEO, the CMO and the Head of BD in unison! We still want you to provide a project plan with a list of activities, launch dates and milestones so we can plan our Go-to-Market strategy, our Comms plan and commit to our partners for the joint Launch campaign. You�re the captain of this ship e.g. the Project Manager. You figure it out! Let's talk about your unfair role in this new world (and why they pay you the big bucks to be in that position",
+      "id": 101,
+      "language": "English",
+      "title": "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!",
+      "presentation": "",
+      "speakers": [1],
+      "tags": ["General"]
+    },
+    "102": {
+      "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
+      "id": 102,
+      "language": "English",
+      "title": "Dive deep into machine learning with TensorFlow",
+      "presentation": "",
+      "speakers": [2],
+      "tags": ["AI"]
+    },
+    "103": {
+      "description": "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
+      "id": 103,
+      "language": "Portuguese",
+      "title": "UX4Devs",
+      "presentation": "",
+      "speakers": [3],
+      "tags": ["UX"]
+    },
+    "104": {
+      "complexity" : "Intermediate",
+      "description": "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
+      "id": 104,
+      "language": "English",
+      "title": "Going API First on the Google Cloud with Connexion",
+      "presentation": "",
+      "speakers": [4],
+      "tags": ["Web"]
+    },
+    "105": {
+      "complexity" : "Beginner",
+      "description": "We will dive into WebVR using Mozilla's A-Frame library.",
+      "id": 105,
+      "language": "English",
+      "title": "Virtual Reality with A-Frame",
+      "presentation": "",
+      "speakers": [5],
+      "tags": ["VR"]
+    },
+    "106": {
+      "description": "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.\nIn this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT.\n“Devices are so 2017, the future is a semantic Internet of Things”",
+      "id": 106,
+      "language": "English",
+      "title": "A Semantic Internet of Things",
+      "presentation": "",
+      "speakers": [6],
+      "tags": ["iot"]
+    },
+    "107": {
+      "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
+      "id": 107,
+      "language": "English",
+      "title": "World Citizen",
+      "presentation": "",
+      "speakers": [7],
+      "tags": ["General"]
+    },
+    "108": {
       "description": "TBD",
-      "id": 140,
+      "id": 108,
       "language": "English",
       "title": "TBD",
       "presentation": "",
       "speakers": [],
-      "tags": [
-        "Android"
-      ]
+      "tags": []
+    },
+    "109": {
+      "description": "TBD",
+      "id": 109,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "110": {
+      "description": "TBD",
+      "id": 110,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "111": {
+      "description": "TBD",
+      "id": 111,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "112": {
+      "description": "TBD",
+      "id": 112,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "113": {
+      "description": "TBD",
+      "id": 113,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "114": {
+      "description": "TBD",
+      "id": 114,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "115": {
+      "description": "TBD",
+      "id": 115,
+      "language": "English",
+      "title": "TBD",
+      "presentation": "",
+      "speakers": [],
+      "tags": []
+    },
+    "997": {
+      "description" : "TBA",
+      "id" : 997,
+      "language" : "English",
+      "title" : "TBA",
+      "tags": ["Information"]
+    },
+    "998": {
+      "description" : "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
+      "id" : 998,
+      "language" : "English",
+      "title" : "Check-In Open",
+      "tags": ["Information"]
+    },
+    "999": {
+      "description" : "TBD",
+      "id" : 999,
+      "language" : "English",
+      "title" : "TBD"
     }
   },
   "speakers": [
@@ -363,11 +408,13 @@
           "name": "Facebook"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/bianca-brancaleone",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/bianca-brancaleone",
+          "name": "GDE"
+        }
+      ],
       "tags": [],
       "title": "UX Freelancer and Consultant, Product Design GDE"
     },
@@ -393,11 +440,13 @@
           "name": "Twitter"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/david-cifuentes",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/david-cifuentes",
+          "name": "GDE"
+        }
+      ],
       "tags": [],
       "title": "Software Engineer @ Zalando SE, Google Developer Expert"
     },
@@ -409,7 +458,7 @@
       "featured": true,
       "id": 5,
       "name": "Martin Splitt",
-      "photoUrl": "../images/people/martin_splitt_min.jpg",
+      "photoUrl": "/images/people/martin_splitt_min.jpg",
       "shortBio": "Martin is pretty decent at humaning and pretty good at computering,so he decided to use his computering to improve his and other's humaning. He loves the open web and open source and helps to make things better with, but not limited to, code.",
       "socials": [
         {
@@ -428,12 +477,16 @@
           "name": "Geekonaut"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/martin-splitt",
-        "name" : "GDE"
-      } ],
-      "tags": ["Virtual Reality"],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/martin-splitt",
+          "name": "GDE"
+        }
+      ],
+      "tags": [
+        "Virtual Reality"
+      ],
       "title": "Head of Engineering @ Archilogic, Google Developer Expert"
     },
     {
@@ -463,11 +516,39 @@
           "name": "Website"
         }
       ],
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/bob-van-luijt",
-        "name" : "GDE"
-      } ],
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/bob-van-luijt",
+          "name": "GDE"
+        }
+      ],
+      "tags": [],
+      "title": "Software Engineer @ Kubrickology, Google Developer Expert"
+    },
+    {
+      "bio": "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
+      "company": "",
+      "companyLogo": "",
+      "country": "Portugal",
+      "featured": true,
+      "id": 7,
+      "name": "Sam Carecho",
+      "photoUrl": "../images/people/sam_carecho.jpg",
+      "shortBio": "Working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/samcarecho",
+          "name": "Github"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/samcarecho",
+          "name": "Twitter"
+        }
+      ],
+      "badges": [],
       "tags": [],
       "title": "Software Engineer @ Kubrickology, Google Developer Expert"
     }
@@ -551,7 +632,7 @@
         "ends": "November 5",
         "info": "",
         "name": "Regular",
-        "price": 5,
+        "price": 4,
         "soldOut": false,
         "starts": "September 1"
       },
@@ -564,7 +645,7 @@
         "starts": "September 1"
       }
     ],
-    "url": "http://devfestlx.2event.com"
+    "url": "https://2event.com/en/events/1010022"
   },
   "videos": []
 }

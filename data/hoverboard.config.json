@@ -17,6 +17,7 @@
   },
   "firebase": {
     "name": "hoverboard-experimental",
+    "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "domain": "devfest2017-a169d.firebaseapp.com",
     "database": "https://devfest2017-a169d.firebaseio.com",
     "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
@@ -151,7 +152,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
