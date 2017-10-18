@@ -93,12 +93,12 @@
         },
         {
           "endTime": "14:00",
-          "sessions": [ [999] ],
+          "sessions": [ [997] ],
           "startTime": "12:00"
         },
         {
           "endTime": "14:20",
-          "sessions": [ [999] ],
+          "sessions": [ [997] ],
           "startTime": "14:00"
         },
         {
@@ -123,7 +123,7 @@
         },
         {
           "endTime": "17:20",
-          "sessions": [ [999] ],
+          "sessions": [ [997] ],
           "startTime": "17:00"
         },
         {
@@ -163,16 +163,6 @@
             ]
           ],
           "startTime": "19:20"
-        },
-        {
-          "endTime": "20:45",
-          "sessions": [ [999] ],
-          "startTime": "20:00"
-        },
-        {
-          "endTime": "22:00",
-          "sessions": [ [999] ],
-          "startTime": "20:45"
         }
       ],
       "tracks": [
@@ -187,6 +177,9 @@
         },
         {
           "title": "Community Lounge"
+        },
+        {
+          "title": "Main Hall"
         }
       ]
     }
@@ -247,7 +240,7 @@
       "title": "A Semantic Internet of Things",
       "presentation": "",
       "speakers": [6],
-      "tags": ["IoT"]
+      "tags": ["iot"]
     },
     "107": {
       "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
@@ -259,88 +252,96 @@
       "tags": ["General"]
     },
     "108": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 108,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "109": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 109,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "110": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 110,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "111": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 111,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "112": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 112,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "113": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 113,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "114": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 114,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
     "115": {
-      "description": "TBA",
+      "description": "TBD",
       "id": 115,
       "language": "English",
-      "title": "TBA",
+      "title": "TBD",
       "presentation": "",
       "speakers": [],
       "tags": []
     },
+    "997": {
+      "description" : "TBA",
+      "id" : 997,
+      "language" : "English",
+      "title" : "TBA",
+      "tags": ["Information"]
+    },
     "998": {
-      "description" : "The registration guiché is open for check-in, if closed, you are able to make the check-in in the Community Lounge.",
+      "description" : "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
       "id" : 998,
-      "title" : "Registration Guiché Open",
+      "language" : "English",
+      "title" : "Check-In Open",
       "tags": ["Information"]
     },
     "999": {
-      "description" : "TBA",
+      "description" : "TBD",
       "id" : 999,
       "language" : "English",
-      "title" : "TBA"
+      "title" : "TBD"
     }
   },
   "speakers": [
