@@ -432,7 +432,7 @@
       "featured" : true,
       "id" : 8,
       "name" : "Amahdy AbdElAziz",
-      "photoUrl" : "../images/people/amahdy.jpg",
+      "photoUrl" : "../images/people/amahdy.png",
       "shortBio" : "Technical speaker, GDE, trainer & developer advocate @vaadin. Passionate about Web & Mobile apps development, PWA, offline-first, Android internals, and AOSP.",
       "socials" : [ {
         "icon" : "github",
