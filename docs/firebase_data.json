@@ -83,37 +83,80 @@
       "timeslots": [
         {
           "endTime": "14:20",
-          "sessions": [ [997] ],
+          "sessions": [
+            [
+              997
+            ]
+          ],
           "startTime": "14:00"
         },
         {
           "endTime": "15:00",
-          "sessions": [ [101], [105]],
+          "sessions": [
+            [
+              101
+            ],
+            [
+              105
+            ]
+          ],
           "startTime": "14:20"
         },
         {
           "endTime": "15:40",
-          "sessions": [ [103], [104]],
+          "sessions": [
+            [
+              103
+            ],
+            [
+              104
+            ]
+          ],
           "startTime": "15:00"
         },
         {
           "endTime": "16:20",
-          "sessions": [ [106], [102]],
+          "sessions": [
+            [
+              999
+            ],
+            [
+              102
+            ]
+          ],
           "startTime": "15:40"
         },
         {
           "endTime": "17:00",
-          "sessions": [ [108], [107]],
+          "sessions": [
+            [
+              108
+            ],
+            [
+              107
+            ]
+          ],
           "startTime": "16:20"
         },
         {
           "endTime": "17:20",
-          "sessions": [ [997] ],
+          "sessions": [
+            [
+              997
+            ]
+          ],
           "startTime": "17:00"
         },
         {
           "endTime": "18:00",
-          "sessions": [ [110], [107]],
+          "sessions": [
+            [
+              110
+            ],
+            [
+              106
+            ]
+          ],
           "startTime": "17:20"
         },
         {
@@ -171,14 +214,18 @@
   ],
   "sessions": {
     "101": {
-      "complexity" : "Beginner",
+      "complexity": "Beginner",
       "description": "The development world has gone Agile crazy. The de facto way to develop and launch software today is in sprints. Fantastic! Wait! say the CEO, the CMO and the Head of BD in unison! We still want you to provide a project plan with a list of activities, launch dates and milestones so we can plan our Go-to-Market strategy, our Comms plan and commit to our partners for the joint Launch campaign. You�re the captain of this ship e.g. the Project Manager. You figure it out! Let's talk about your unfair role in this new world (and why they pay you the big bucks to be in that position",
       "id": 101,
       "language": "English",
       "title": "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!",
       "presentation": "",
-      "speakers": [1],
-      "tags": ["General"]
+      "speakers": [
+        1
+      ],
+      "tags": [
+        "General"
+      ]
     },
     "102": {
       "description": "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
@@ -186,8 +233,12 @@
       "language": "English",
       "title": "Dive deep into machine learning with TensorFlow",
       "presentation": "",
-      "speakers": [2],
-      "tags": ["AI"]
+      "speakers": [
+        2
+      ],
+      "tags": [
+        "AI"
+      ]
     },
     "103": {
       "description": "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
@@ -195,28 +246,40 @@
       "language": "Portuguese",
       "title": "UX4Devs",
       "presentation": "",
-      "speakers": [3],
-      "tags": ["UX"]
+      "speakers": [
+        3
+      ],
+      "tags": [
+        "UX"
+      ]
     },
     "104": {
-      "complexity" : "Intermediate",
+      "complexity": "Intermediate",
       "description": "Having solid, high quality APIs for your application is crucial and more important than ever especially in today’s microservice architectures. While there are many ways to do it, having a good combination of methodology with a robust infrastructure can really make the difference. During this talk you’ll see how to deploy a Python microservice on the Google Cloud using Connexion (Flask based framework), App Engine Flexible (platform as a service) and Cloud Endpoints (API gateway) following API first principles.",
       "id": 104,
       "language": "English",
       "title": "Going API First on the Google Cloud with Connexion",
       "presentation": "",
-      "speakers": [4],
-      "tags": ["Web"]
+      "speakers": [
+        4
+      ],
+      "tags": [
+        "Web"
+      ]
     },
     "105": {
-      "complexity" : "Beginner",
+      "complexity": "Beginner",
       "description": "We will dive into WebVR using Mozilla's A-Frame library.",
       "id": 105,
       "language": "English",
       "title": "Virtual Reality with A-Frame",
       "presentation": "",
-      "speakers": [5],
-      "tags": ["VR"]
+      "speakers": [
+        5
+      ],
+      "tags": [
+        "VR"
+      ]
     },
     "106": {
       "description": "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.\nIn this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT.\n“Devices are so 2017, the future is a semantic Internet of Things”",
@@ -224,8 +287,12 @@
       "language": "English",
       "title": "A Semantic Internet of Things",
       "presentation": "",
-      "speakers": [6],
-      "tags": ["iot"]
+      "speakers": [
+        6
+      ],
+      "tags": [
+        "iot"
+      ]
     },
     "107": {
       "description": "What if life was so awesome that we could work and go on vacation at the same time?\nThe growth of the Internet and the improvement of communications have brought disruption, change and new opportunities. We no longer need to be confined to a city or space, to be able to produce and be successful.  Come discover what might as well be your future, and learn about what I've been doing for the past 12 months.",
@@ -233,8 +300,12 @@
       "language": "English",
       "title": "World Citizen",
       "presentation": "",
-      "speakers": [7],
-      "tags": ["General"]
+      "speakers": [
+        7
+      ],
+      "tags": [
+        "General"
+      ]
     },
     "108": {
       "description": "TBD",
@@ -309,24 +380,28 @@
       "tags": []
     },
     "997": {
-      "description" : "TBA",
-      "id" : 997,
-      "language" : "English",
-      "title" : "TBA",
-      "tags": ["Information"]
+      "description": "TBA",
+      "id": 997,
+      "language": "English",
+      "title": "TBA",
+      "tags": [
+        "Information"
+      ]
     },
     "998": {
-      "description" : "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
-      "id" : 998,
-      "language" : "English",
-      "title" : "Check-In Open",
-      "tags": ["Information"]
+      "description": "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
+      "id": 998,
+      "language": "English",
+      "title": "Check-In Open",
+      "tags": [
+        "Information"
+      ]
     },
     "999": {
-      "description" : "TBD",
-      "id" : 999,
-      "language" : "English",
-      "title" : "TBD"
+      "description": "TBD",
+      "id": 999,
+      "language": "English",
+      "title": "TBD"
     }
   },
   "speakers": [
