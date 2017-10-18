@@ -88,7 +88,7 @@
         },
         {
           "endTime": "15:00",
-          "sessions": [ [101], [102]],
+          "sessions": [ [101], [105]],
           "startTime": "14:20"
         },
         {
@@ -98,12 +98,12 @@
         },
         {
           "endTime": "16:20",
-          "sessions": [ [105], [106]],
+          "sessions": [ [106], [102]],
           "startTime": "15:40"
         },
         {
           "endTime": "17:00",
-          "sessions": [ [107], [108]],
+          "sessions": [ [108], [107]],
           "startTime": "16:20"
         },
         {
@@ -113,7 +113,7 @@
         },
         {
           "endTime": "18:00",
-          "sessions": [ [110], [109]],
+          "sessions": [ [110], [107]],
           "startTime": "17:20"
         },
         {
