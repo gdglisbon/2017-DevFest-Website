@@ -20,7 +20,6 @@
     "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "domain": "devfest2017-a169d.firebaseapp.com",
     "database": "https://devfest2017-a169d.firebaseio.com",
-    "api": "AIzaSyAdAVJx1m3Gq6y8mT1BfI1F2jBjf4ecGEU",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
