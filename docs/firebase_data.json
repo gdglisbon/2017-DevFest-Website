@@ -75,11 +75,11 @@
       "startTime" : "15:00"
     }, {
       "endTime" : "16:20",
-      "sessions" : [ [ 999 ], [ 102 ] ],
+      "sessions" : [ [ 107 ], [ 102 ] ],
       "startTime" : "15:40"
     }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 999 ], [ 107 ] ],
+      "sessions" : [ [ 109 ], [ 999 ] ],
       "startTime" : "16:20"
     }, {
       "endTime" : "17:20",
@@ -191,11 +191,12 @@
       "title" : "Offline-first apps with WebComponents"
     },
     "109" : {
-      "description" : "TBD",
+      "description" : "Google’s People Operations try for over 2 years to find the perfect mix of individual traits and skills necessary for a stellar team but ended up concluding that who is on a team matters less than how the team members interact, structure their work, and view their contributions. In a time that we are all focusing on COMPANY culture and how that AFFECTS attractiveness of new team members, are we connecting all the dots till teams effectiveness?",
       "id" : 109,
-      "language" : "English",
+      "language" : "Portuguese",
       "presentation" : "",
-      "title" : "TBD"
+      "speakers" : [ 9 ],
+      "title" : "Are great teams born in trees?"
     },
     "110" : {
       "description" : "TBD",
@@ -419,35 +420,56 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/samcarecho",
       "name" : "Twitter"
-    }]}, {
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/amahdy-abdelaziz",
-        "name" : "GDE"
-      } ],
-      "bio" : "International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Web and Mobile apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices. amahdy.net",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "",
-      "featured" : true,
-      "id" : 8,
-      "name" : "Amahdy AbdElAziz",
-      "photoUrl" : "../images/people/amahdy.png",
-      "shortBio" : "Technical speaker, GDE, trainer & developer advocate @vaadin. Passionate about Web & Mobile apps development, PWA, offline-first, Android internals, and AOSP.",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "github.com/amahdy",
-        "name" : "Github"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/amahdy7",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.amahdy.net/",
-        "name" : "Website"
-      }  ],
+    } ]
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/amahdy-abdelaziz",
+      "name" : "GDE"
+    } ],
+    "bio" : "International technical speaker, Google developer expert (GDE), trainer and developer advocate. Passionate about Web and Mobile apps development, including PWA, offline-first design, in-browser database, and cross platform tools. Also interested in Android internals such as building custom ROMs and customize AOSP for embedded devices. amahdy.net",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Amahdy AbdElAziz",
+    "photoUrl" : "../images/people/amahdy.png",
+    "shortBio" : "Technical speaker, GDE, trainer & developer advocate @vaadin. Passionate about Web & Mobile apps development, PWA, offline-first, Android internals, and AOSP.",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "github.com/amahdy",
+      "name" : "Github"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/amahdy7",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://www.amahdy.net/",
+      "name" : "Website"
+    } ],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
+  }, {
+    "bio" : "Having made all of her academic and professional career in health as a pharmacist, a turnaround in life has taken her to ​​technology and today is COO of Redlight Software, a company specialized in healthcare software. Responsible, among other areas, for HR, sees in the internal culture of companies a great potential and a very interesting way of marking the identity of a company, the teams and the products/services they provide. Among other causes that move her and interests in which she invests her personal time, we could emphasize the special interest on sustainable social entrepreneurship and the application of AI in chatbots.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Cláudia Matos Morgado",
+    "photoUrl" : "../images/people/claudia_morgado.jpg",
+    "shortBio" : "Having made all of her academic and professional career in health as a pharmacist, a turnaround in life has taken her to ​​technology and today is COO of Redlight Software.",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/claudia.m.morgado",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/claudiamorgado/",
+      "name" : "LinkedIn"
+    } ],
+    "title" : "COO at Redlight Software"
   } ],
   "team" : [ {
     "members" : [ {
