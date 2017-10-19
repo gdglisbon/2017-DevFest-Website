@@ -63,7 +63,7 @@
     "dateReadable" : "November 11",
     "timeslots" : [ {
       "endTime" : "14:20",
-      "sessions" : [ [ 997 ] ],
+      "sessions" : [ [ 998 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "15:00",
@@ -83,7 +83,7 @@
       "startTime" : "16:20"
     }, {
       "endTime" : "17:20",
-      "sessions" : [ [ 997 ] ],
+      "sessions" : [ [ 996 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "18:00",
@@ -99,7 +99,7 @@
       "startTime" : "18:40"
     }, {
       "endTime" : "20:00",
-      "sessions" : [ [ 999 ] ],
+      "sessions" : [ [ 995 ] ],
       "startTime" : "19:20"
     } ],
     "tracks" : [ {
@@ -240,6 +240,20 @@
       "presentation" : "",
       "title" : "TBD"
     },
+    "995" : {
+      "description" : "We invite all the speakers to come on stage and start a discussion with the community.",
+      "id" : 995,
+      "language" : "English",
+      "tags" : [ "Information" ],
+      "title" : "Fireside Discussion"
+    },
+    "996" : {
+      "description" : "Coffee Break! Why not go say hello to the fellows at the Community Corner?",
+      "id" : 996,
+      "language" : "English",
+      "tags" : [ "Information" ],
+      "title" : "Coffee Break"
+    },
     "997" : {
       "description" : "TBA",
       "id" : 997,
@@ -248,11 +262,11 @@
       "title" : "TBA"
     },
     "998" : {
-      "description" : "You can grab you badge for the conference starting at 9:30 in the Main Hall in Ticket Counter. After 12:00 you can get your badge at the Community Corner.",
+      "description" : "The talks will begin with this open ceremony where the organizers of the event will give a quick word and news. Let's Go!",
       "id" : 998,
       "language" : "English",
       "tags" : [ "Information" ],
-      "title" : "Check-In Open"
+      "title" : "Open Ceremony"
     },
     "999" : {
       "description" : "TBD",
