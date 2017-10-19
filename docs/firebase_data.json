@@ -82,10 +82,6 @@
     "title" : "Food&Drink"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
-      "name" : "Pastéis de Belém",
-      "url" : "http://pasteisdebelem.pt/"
-    },{
       "logoUrl" : "../images/logos/poets.jpg",
       "name" : "Lisbon Poets Hostel",
       "url" : "http://www.lisbonpoetshostel.com/en/"
