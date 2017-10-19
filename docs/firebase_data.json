@@ -32,10 +32,6 @@
     } ],
     "title" : "Main Sponsor"
   }, {
-    "title" : "Partners"
-  }, {
-    "title" : "Supporters"
-  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/abertomadrugada.jpg",
       "name" : "Aberto até Madrugada",
@@ -45,20 +41,68 @@
       "name" : "Canal Superior",
       "url" : "http://www.canalsuperior.pt/"
     }, {
-      "logoUrl" : "../images/logos/pplware.png",
-      "name" : "PPLWare",
-      "url" : "https://pplware.sapo.pt/"
-    } ],
+      "logoUrl" : "../images/logos/pap.png",
+      "name" : "Portugal a Programar",
+      "url" : "https://www.portugal-a-programar.pt/"
+    }, {
+      "logoUrl" : "../images/logos/wintech.png",
+      "name" : "Wintech",
+      "url" : "http://wintech.pt/"
+    }, {
+      "logoUrl" : "../images/logos/techemportugues.jpg",
+      "name" : "Tech em Português",
+      "url" : "https://www.techemportugues.com/"
+    }, {
+      "logoUrl" : "../images/logos/uniarea.png",
+      "name" : "Uniarea",
+      "url" : "http://uniarea.com/"
+    }],
     "title" : "Media Partner"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/jetbrains.png",
+      "name" : "JetBrains",
+      "url" : "https://www.jetbrains.com/"
+    },{
+      "logoUrl" : "../images/logos/sketch.png",
+      "name" : "Sketch",
+      "url" : "https://www.sketchapp.com/"
+    }  ],
+    "title" : "Prizes"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
       "name" : "Pastéis de Belém",
       "url" : "http://pasteisdebelem.pt/"
-    } ],
+    },{
+      "logoUrl" : "../images/logos/frubis.jpg",
+      "name" : "Frubis",
+      "url" : "http://frubisworld.com/"
+    }  ],
     "title" : "Food&Drink"
-  } ],
-  "schedule" : [ {
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
+      "name" : "Pastéis de Belém",
+      "url" : "http://pasteisdebelem.pt/"
+    },{
+      "logoUrl" : "../images/logos/poets.jpg",
+      "name" : "Lisbon Poets Hostel",
+      "url" : "http://www.lisbonpoetshostel.com/en/"
+    }  ],
+    "title" : "Lodging"
+  }  ],
+  "schedule" : [ 
+    {
+      "date" : "2017-11-10",
+      "dateReadable" : "November 10",
+      "timeslots" : [ {
+        "endTime" : "19:00",
+        "sessions" : [ [ 999 ] ],
+        "startTime" : "21:00"
+      }]
+    },
+    {
     "date" : "2017-11-11",
     "dateReadable" : "November 11",
     "timeslots" : [ {
@@ -199,46 +243,53 @@
       "title" : "Are great teams born in trees?"
     },
     "110" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 110,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
     },
     "111" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 111,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
     },
     "112" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 112,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
     },
     "113" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 113,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
     },
     "114" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 114,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
     },
     "115" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 115,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBD"
+      "title" : "TBA"
+    },
+    "994" : {
+      "description" : "Google itself says that is now not a mobile first but Artificial Intelligence first, more and more we see software and apps with AI, what impact will the have? We have invited variosu experts to debate.",
+      "id" : 994,
+      "language" : "Portuguese",
+      "tags" : [ "AI" ],
+      "title" : "OPEN - Artificial Intelligence Debate"
     },
     "995" : {
       "description" : "We invite all the speakers to come on stage and start a discussion with the community.",
@@ -269,10 +320,10 @@
       "title" : "Open Ceremony"
     },
     "999" : {
-      "description" : "TBD",
+      "description" : "TBA",
       "id" : 999,
       "language" : "English",
-      "title" : "TBD"
+      "title" : "TBA"
     }
   },
   "speakers" : [ null, {
