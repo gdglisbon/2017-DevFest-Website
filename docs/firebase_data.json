@@ -90,15 +90,6 @@
   }  ],
   "schedule" : [ 
     {
-      "date" : "2017-11-10",
-      "dateReadable" : "November 10",
-      "timeslots" : [ {
-        "endTime" : "19:00",
-        "sessions" : [ [ 999 ] ],
-        "startTime" : "21:00"
-      }]
-    },
-    {
     "date" : "2017-11-11",
     "dateReadable" : "November 11",
     "timeslots" : [ {
@@ -153,6 +144,18 @@
     }, {
       "title" : "Main Hall"
     } ]
+  },
+  {
+    "date" : "2017-11-10",
+    "dateReadable" : "November 10",
+    "timeslots" : [ {
+      "endTime" : "21:00",
+      "sessions" : [ [ 994 ] ],
+      "startTime" : "18:30"
+    }],
+    "tracks" : [ {
+      "title" : "Auditorium One Green"
+    }]
   } ],
   "sessions" : {
     "101" : {
