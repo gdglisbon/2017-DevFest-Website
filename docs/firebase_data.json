@@ -458,11 +458,11 @@
       "name" : "Github"
     }, {
       "icon" : "twitter",
-      "link" : "twitter.com/bobvanluijt",
+      "link" : "https://twitter.com/bobvanluijt",
       "name" : "Twitter"
     }, {
       "icon" : "website",
-      "link" : "www.bob.wtf",
+      "link" : "https://www.bob.wtf",
       "name" : "Website"
     } ],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
@@ -502,7 +502,7 @@
     "shortBio" : "Technical speaker, GDE, trainer & developer advocate @vaadin. Passionate about Web & Mobile apps development, PWA, offline-first, Android internals, and AOSP.",
     "socials" : [ {
       "icon" : "github",
-      "link" : "github.com/amahdy",
+      "link" : "https://github.com/amahdy",
       "name" : "Github"
     }, {
       "icon" : "twitter",
