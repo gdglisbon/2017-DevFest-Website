@@ -29,6 +29,11 @@
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
+    },
+    {
+      "logoUrl" : "../images/logos/pt_enter.png",
+      "name" : "Altice",
+      "url" : "http://enter.telecom.pt/"
     } ],
     "title" : "Main Sponsor"
   }, {
