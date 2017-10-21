@@ -443,7 +443,7 @@
       "link" : "https://developers.google.com/experts/people/bob-van-luijt",
       "name" : "GDE"
     } ],
-    "bio" : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.\nCurrently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
+    "bio" : "Bob is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github.\nCurrently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
     "company" : "Kubrickology",
     "companyLogo" : "",
     "country" : "Netherlands",
@@ -516,7 +516,7 @@
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
   }, {
     "bio" : "Having made all of her academic and professional career in health as a pharmacist, a turnaround in life has taken her to ​​technology and today is COO of Redlight Software, a company specialized in healthcare software. Responsible, among other areas, for HR, sees in the internal culture of companies a great potential and a very interesting way of marking the identity of a company, the teams and the products/services they provide. Among other causes that move her and interests in which she invests her personal time, we could emphasize the special interest on sustainable social entrepreneurship and the application of AI in chatbots.",
-    "company" : "",
+    "company" : "RedLight",
     "companyLogo" : "",
     "country" : "Portugal",
     "featured" : true,
