@@ -38,6 +38,13 @@
     "title" : "Main Sponsor"
   }, {
     "logos" : [ {
+      "logoUrl" : "../images/logos/nezasa.png",
+      "name" : "Nezasa",
+      "url" : "https://www.nezasa.com/"
+    }],
+    "title" : "Gold Sponsor"
+  },{
+    "logos" : [ {
       "logoUrl" : "../images/logos/abertomadrugada.jpg",
       "name" : "Aberto até Madrugada",
       "url" : "http://abertoatedemadrugada.com/"
@@ -76,10 +83,6 @@
     "title" : "Prizes"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/nezasa.png",
-      "name" : "Nezasa",
-      "url" : "https://www.nezasa.com/"
-    },{
       "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
       "name" : "Pastéis de Belém",
       "url" : "http://pasteisdebelem.pt/"
