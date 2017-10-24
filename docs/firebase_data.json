@@ -187,13 +187,14 @@
       "title" : "Dive deep into machine learning with TensorFlow"
     },
     "103" : {
-      "description" : "Good UX is not a designer thing, it's a teamwork. Let's see some UX concepts and what developers should do to improve product's UX.",
+      "complexity" : "Intermediate",
+      "description" : "Often, designing for the user seems like a whimsical idea of the UX team. Both clients and the team may see it as a waste of time or something as something that is just too much of a luxury. This talk will focus on how most of the justifications against designing for the user are complete nonsense. We’ll also explore some simple ways of making the user an integral part of your processo. The world is changing and ignoring a user should no longer be an option.",
       "id" : 103,
-      "language" : "Portuguese",
+      "language" : "English",
       "presentation" : "",
       "speakers" : [ 3 ],
       "tags" : [ "UX" ],
-      "title" : "UX4Devs"
+      "title" : "Cutting past the bullshit and designing for the user"
     },
     "104" : {
       "complexity" : "Intermediate",
@@ -371,26 +372,29 @@
     } ],
     "title" : ""
   }, {
-    "badges" : [ {
-      "description" : "Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/bianca-brancaleone",
-      "name" : "GDE"
-    } ],
-    "bio" : "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
-    "company" : "",
+    "bio" : "With over 17 years of design experience in various fields, Hugo has become an evangelist for UX and Design thinking. Trying to help others understand the benefits of these two methodologies by speaking at events and teaching the UX at EDIT. One of Hugo's favorite pastimes is discussing how to use design to make the_world a better place and he has recently become a board member of UX for Change.",
+    "company" : "Hi Interactive",
     "companyLogo" : "",
-    "country" : "Brazil",
+    "country" : "Portugal",
     "featured" : true,
     "id" : 3,
-    "name" : "Bianca Brancaleone ",
-    "photoUrl" : "../images/people/biancab.jpg",
-    "shortBio" : "UX freelancer and consultant for 5 years, Design Product GDE and GDG and WTM organizer in Sorocaba - SP",
+    "name" : "Hugo Froes Simões",
+    "photoUrl" : "../images/people/hugo_froes.jpg",
+    "shortBio" : "Trying to help others understand the benefits of UX and Designing Thinking on step at a time. Let’s solve problems together.",
     "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/bianca.brancaleone",
-      "name" : "Facebook"
+      "icon" : "website",
+      "link" : "https://medium.com/@hugofroesUX",
+      "name" : "Webstie"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/hugofroes/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/hugofroesUX",
+      "name" : "Twitter"
     } ],
-    "title" : "UX Freelancer and Consultant, Product Design GDE"
+    "title" : "UX Designer/Strategist/Evangelist at Hi INTERACTIVE and Co-creator of UX Discuss"
   }, {
     "badges" : [ {
       "description" : "Google Developer Expert",
