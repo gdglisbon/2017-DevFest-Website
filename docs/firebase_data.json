@@ -29,8 +29,7 @@
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
-    },
-    {
+    }, {
       "logoUrl" : "../images/logos/pt_enter.png",
       "name" : "Altice",
       "url" : "http://enter.telecom.pt/"
@@ -41,9 +40,9 @@
       "logoUrl" : "../images/logos/nezasa.png",
       "name" : "Nezasa",
       "url" : "https://www.nezasa.com/"
-    }],
+    } ],
     "title" : "Gold Sponsor"
-  },{
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/abertomadrugada.jpg",
       "name" : "Aberto até Madrugada",
@@ -68,40 +67,46 @@
       "logoUrl" : "../images/logos/uniarea.png",
       "name" : "Uniarea",
       "url" : "http://uniarea.com/"
-    }],
+    } ],
     "title" : "Media Partner"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/jetbrains.png",
       "name" : "JetBrains",
       "url" : "https://www.jetbrains.com/"
-    },{
+    }, {
       "logoUrl" : "../images/logos/sketch.png",
       "name" : "Sketch",
       "url" : "https://www.sketchapp.com/"
-    }  ],
+    } ],
     "title" : "Prizes"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/pasteis_de_belem_min.jpg",
       "name" : "Pastéis de Belém",
       "url" : "http://pasteisdebelem.pt/"
-    },{
+    }, {
       "logoUrl" : "../images/logos/frubis.jpg",
       "name" : "Frubis",
       "url" : "http://frubisworld.com/"
-    }  ],
+    } ],
     "title" : "Food&Drink"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/poets.jpg",
       "name" : "Lisbon Poets Hostel",
       "url" : "http://www.lisbonpoetshostel.com/en/"
-    }  ],
+    } ],
     "title" : "Lodging"
-  }  ],
-  "schedule" : [ 
-    {
+  } ],
+  "ratings" : {
+    "UdSuQN0LwagOT0BFzKAbSVTQOF93" : {
+      "sessions" : {
+        "994" : 5
+      }
+    }
+  },
+  "schedule" : [ {
     "date" : "2017-11-11",
     "dateReadable" : "November 11",
     "timeslots" : [ {
@@ -156,18 +161,17 @@
     }, {
       "title" : "Main Hall"
     } ]
-  },
-  {
+  }, {
     "date" : "2017-11-10",
     "dateReadable" : "November 10",
     "timeslots" : [ {
       "endTime" : "21:00",
       "sessions" : [ [ 994 ] ],
       "startTime" : "18:30"
-    }],
+    } ],
     "tracks" : [ {
       "title" : "Auditorium One Green"
-    }]
+    } ]
   } ],
   "sessions" : {
     "101" : {
@@ -178,7 +182,7 @@
       "presentation" : "",
       "speakers" : [ 1 ],
       "tags" : [ "General" ],
-      "title" : "Today's Project Manager: the performer of marriages between Agile development and Waterfall management!"
+      "title" : "Today's Project Manager: the performer of weddings between Agile development and Waterfall management!"
     },
     "102" : {
       "description" : "Dive deep into machine learning with TensorFlow is a high-level introduction to the TensorFlow library, architecture and API. Originally developed at Google for the purposes of conducting machine-learning and deep neural networks research, TensorFlow leverages a general computational model that is applicable in a wide variety of other domains, especially for performing large-scale numerical computations on large data. This talk explains you how to use the library to train machine-learning models and make your next application smarter.",
@@ -247,12 +251,12 @@
       "title" : "Offline-first apps with WebComponents"
     },
     "109" : {
-      "description" : "Google’s People Operations try for over 2 years to find the perfect mix of individual traits and skills necessary for a stellar team but ended up concluding that who is on a team matters less than how the team members interact, structure their work, and view their contributions. In a time that we are all focusing on COMPANY culture and how that AFFECTS attractiveness of new team members, are we connecting all the dots till teams effectiveness?",
+      "description" : "For over 2 years Google´s People Operations team was trying to find the perfect mix of individual traits and skills necessary for a stellar team. However, they ended up concluding that who is on a team matters less than how the team members interact, structure their work, and view their contributions. At a time when we are all focus on company culture and how it affects attractiveness of new team members, are we connecting all the dots till teams effectiveness?",
       "id" : 109,
       "language" : "Portuguese",
       "presentation" : "",
       "speakers" : [ 9 ],
-      "title" : "Are great teams born in trees?"
+      "title" : "Do great teams grow on trees?"
     },
     "110" : {
       "description" : "TBA",
@@ -342,7 +346,7 @@
     "bio" : "I have recently joined DSSC, a growing Fintech startup as their Head of Operations & PMO. Previously, I was a Senior Programme Manager at Skype, managing the delivery of Online Payments programmes mainly in Emerging markets, enabling millions of users to buy Skype paid services. In my spare time, I run Charub, an early stage Social Enterprise raising money for charities through the use of online advertising and social media.\n \nI few years ago, I was a Project Manager and Developer at e-pay, a Euronet Worldwide company, working on top-up integration projects with Retailers such as Tesco, Sainsbury's and Asda and service providers like Vodafone, Orange and Apple iTunes.\n \nBefore my UK adventures, I lived in South Africa for a couple of years where I was a Computer Science instructor in a Pretoria college. My first work experience was in my native Portugal as a Computer Science lecturer at the University I graduated from with a BA+Honours in Computer Science and Business Management.",
     "company" : "DSSC Digital Software Solutions",
     "companyLogo" : "",
-    "country" : "Portugal",
+    "country" : "UK",
     "featured" : true,
     "id" : 1,
     "name" : "Ana Ribeiro",
@@ -531,7 +535,7 @@
     } ],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
   }, {
-    "bio" : "Having made all of her academic and professional career in health as a pharmacist, a turnaround in life has taken her to ​​technology and today is COO of Redlight Software, a company specialized in healthcare software. Responsible, among other areas, for HR, sees in the internal culture of companies a great potential and a very interesting way of marking the identity of a company, the teams and the products/services they provide. Among other causes that move her and interests in which she invests her personal time, we could emphasize the special interest on sustainable social entrepreneurship and the application of AI in chatbots.",
+    "bio" : "Starting her academic and professional career as a pharmacist, she has turned her life round and moved to technology. Today, she’s the COO of Redlight Software, a healthcare software company. Responsible, among other areas, for HR, sees in the internal culture of companies a great potential and a very interesting way of marking the identity of a company, the teams and the products/services they provide. Among other causes that move her and interests in which she invests her personal time, we could emphasize the special interest on sustainable social entrepreneurship and the application of AI in chatbots.",
     "company" : "RedLight",
     "companyLogo" : "",
     "country" : "Portugal",
