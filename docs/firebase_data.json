@@ -307,7 +307,7 @@
       "id" : 994,
       "language" : "Portuguese",
       "tags" : [ "AI" ],
-      "speakers" : [ 11, 2 ],
+      "speakers" : [ 11, 2, 13 ],
       "title" : "OPEN - Artificial Intelligence Debate"
     },
     "995" : {
@@ -636,6 +636,18 @@
     }],
     "tags": ["Business"],
     "title" : "Founder and Managing Partner"
+  }, {
+    "bio" : "Bruno Nobre is Jesuit Priest, and a Professor of Philosophy at the Catholic University of Portugal (Braga). He earned his Licentiate in Physics Engineering (2000) and his PhD in Physics at Instituto Superior Técnico, Lisbon (2005). He studied Philosophy at the Faculty of Philosophy and Social Sciences, Catholic University, Braga (2007-2010), and obtained his Master’s degree (MDiv) in Theology at Boston College (2016). He was a Postdoctoral researcher in Philosophy of Science at Universidade do Estado do Rio de Janeiro (2016-2017). He is the co-author, with Pedro Lind, of Dois Dedos de Conversa Sobre o Dentro das Coisas, and published several academic articles.",
+    "company" : "Faculdade de Filosofia e Ciências Sociais, Universidade Católica Portuguesa",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Bruno Nobre",
+    "photoUrl" : "../images/people/sandro_batista.jpg",
+    "shortBio" : "Bruno Nobre is a Jesuit Priest, and a Professor of Philosophy at the Catholic University of Portugal (Braga). His academic background is in Physics (Particle Physics).",
+    "tags": ["Jesuit"],
+    "title" : "Professor of Philosophy"
   }],
   "team" : [ {
     "members" : [ {
