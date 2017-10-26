@@ -599,7 +599,7 @@
     "photoUrl" : "../images/people/jorge_martins.jpg",
     "shortBio" : "Media, Tech & Telecoms Lawyer. Always exploring new possibilities and new ways to create impact",
     "socials" : [{
-      "icon" : "linkedIn",
+      "icon" : "linkedin",
       "link" : "https://linkedin.com/in/jorge-silva-martins-ab212820",
       "name" : "LinkedIn"
     }],
