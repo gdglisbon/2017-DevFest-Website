@@ -357,6 +357,7 @@
       "link" : "http://uk.linkedin.com/in/anaribeiroUK",
       "name" : "LinkedIn"
     } ],
+    "tags" : [ "Business" ],
     "title" : "Head of Operations & PMO"
   }, {
     "bio" : "Mário Cordeiro is a Senior Software Engineer at Critical Manufacturing and a PhD student in the Doctoral Program in Informatics Engineering at Porto University. He is currently researching Event detection in social network data streams, a cross domain research topic in the areas of Social network analysis, Natural Language Processing and Data Stream Mining. Co-organizer of the Data Science Portugal community.",
@@ -377,6 +378,7 @@
       "link" : "https://twitter.com/mmfcordeiro",
       "name" : "Twitter"
     } ],
+    "tags" : [ "AI" ],
     "title" : ""
   }, {
     "bio" : "With over 17 years of design experience in various fields, Hugo has become an evangelist for UX and Design thinking. Trying to help others understand the benefits of these two methodologies by speaking at events and teaching the UX at EDIT. One of Hugo's favorite pastimes is discussing how to use design to make the_world a better place and he has recently become a board member of UX for Change.",
@@ -401,6 +403,7 @@
       "link" : "https://twitter.com/hugofroesUX",
       "name" : "Twitter"
     } ],
+    "tags" : [ "UX" ],
     "title" : "  UX Designer/Strategist/Evangelist at Hi INTERACTIVE and Co-creator of UX Discuss"
   }, {
     "badges" : [ {
@@ -426,6 +429,7 @@
       "link" : "https://twitter.com/dcifuen",
       "name" : "Twitter"
     } ],
+    "tags" : [ "GDE", "Cloud"],
     "title" : "Software Engineer @ Zalando SE, Google Developer Expert"
   }, {
     "badges" : [ {
@@ -455,7 +459,7 @@
       "link" : "http://geekonaut.de/",
       "name" : "Geekonaut"
     } ],
-    "tags" : [ "Virtual Reality" ],
+    "tags" : [ "Virtual Reality", "Web" ],
     "title" : "Head of Engineering @ Archilogic, Google Developer Expert"
   }, {
     "badges" : [ {
@@ -485,6 +489,7 @@
       "link" : "https://www.bob.wtf",
       "name" : "Website"
     } ],
+    "tags" : [ "GDE"],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
   }, {
     "bio" : "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
@@ -533,6 +538,7 @@
       "link" : "http://www.amahdy.net/",
       "name" : "Website"
     } ],
+    "tags" : [ "GDE", "Web", "Mobile" ],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
   }, {
     "bio" : "Starting her academic and professional career as a pharmacist, she has turned her life round and moved to technology. Today, she’s the COO of Redlight Software, a healthcare software company. Responsible, among other areas, for HR, sees in the internal culture of companies a great potential and a very interesting way of marking the identity of a company, the teams and the products/services they provide. Among other causes that move her and interests in which she invests her personal time, we could emphasize the special interest on sustainable social entrepreneurship and the application of AI in chatbots.",
@@ -553,7 +559,33 @@
       "link" : "https://www.linkedin.com/in/claudiamorgado/",
       "name" : "LinkedIn"
     } ],
+    "tags" : [ "Business" ],
     "title" : "COO at Redlight Software"
+  } , {
+    "bio" : "Sérgio Santos is a founder and developer at Bloco, a product studio specialised in Android. After a long time as a full-stack web developer, he decided to switch to mobile development and haven't returned since. Interested in software quality and building great products.",
+    "company" : "Bloco",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Sérgio Santos",
+    "photoUrl" : "../images/people/sergio_santos.jpg",
+    "shortBio" : "Founder and Android developer at Bloco.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "http://twitter.com/sdsantos",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://bloco.io",
+      "name" : "Bloco"
+    }, {
+      "icon" : "website",
+      "link" : "http://www.sergiosantos.info",
+      "name" : "Personal"
+    } ],
+    "tags" : [ "Business", "Mobile" ],
+    "title" : "Founder and Android developer at Bloco"
   } ],
   "team" : [ {
     "members" : [ {
