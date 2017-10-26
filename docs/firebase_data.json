@@ -264,6 +264,7 @@
       "id" : 110,
       "language" : "English",
       "presentation" : "",
+      "speakers" : [ 12 ],
       "title" : "The Sense of Location on any Business"
     },
     "111" : {
@@ -614,7 +615,7 @@
     "featured" : true,
     "id" : 12,
     "name" : "Sandro Batista",
-    "photoUrl" : "../images/people/jorge_martins.jpg",
+    "photoUrl" : "../images/people/sandro_batista.jpg",
     "shortBio" : "Art, music and tech lover! Founder and Managing Partner at Focus BC - EMEA Google Enterprise Partner - and EngSolvers with more than 10 years of professional experience in the area of information systems working as Director in Technical, Research and Development areas.",
     "socials" : [{
       "icon" : "linkedin",
