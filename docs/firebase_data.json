@@ -259,11 +259,12 @@
       "title" : "Do great teams grow on trees?"
     },
     "110" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Location is the common base for something that is happening or can happen anywhere. Where we come from, where we work, where we live - these are all ways of making sense of the world around us - how can we leverage businesses with this kind of knowledge? In this session, we'll dive into how the location component can be part of any solution,  and how can we delivery it in effective ways using Google Maps API, Google Cloud and Google IoT Solutions.",
       "id" : 110,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBA"
+      "title" : "The Sense of Location on any Business"
     },
     "111" : {
       "description" : "TBA",
@@ -605,6 +606,35 @@
     }],
     "tags": ["Lawyer"],
     "title" : "Lawyer, DLA Piper ABBC"
+  }, {
+    "bio" : "Art, music and tech lover! Founder and Managing Partner at Focus BC - EMEA Google Enterprise Partner - and EngSolvers and also teach in portuguese universities. Engineer with more than 10 years of professional experience in the area of information systems working as Director in Technical, Research and Development areas. I've participated as Project Manager and Director in several international and national projects, such as: NC3A - NATO; Geocapital Holding; AICEP Global Parks; Chronopost International; Portuguese Geographic Institute, Portugal National Roads Agency, National Direction for Spatial Planning and Urban Development; The Sports Institute of Portugal and Many Local and Central Governemnt organizations. Specialties: Location Intelligence, Leadership, Information Systems, Management, Project Management, Defense and Security, Engineering, Geographic Information Systems, Presentations",
+    "company" : "Focus BC - Google for work EMEA Partner",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Sandro Batista",
+    "photoUrl" : "../images/people/jorge_martins.jpg",
+    "shortBio" : "Art, music and tech lover! Founder and Managing Partner at Focus BC - EMEA Google Enterprise Partner - and EngSolvers with more than 10 years of professional experience in the area of information systems working as Director in Technical, Research and Development areas.",
+    "socials" : [{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/sandrobatista",
+      "name" : "LinkedIn"
+    },{
+      "icon" : "twitter",
+      "link" : "https://twitter.com/sandrobatista",
+      "name" : "Twitter"
+    },{
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/sandro.goncalo",
+      "name" : "Facebook"
+    },{
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/u/0/+SandroBatistaPT",
+      "name" : "Google+"
+    }],
+    "tags": ["Business"],
+    "title" : "Founder and Managing Partner"
   }],
   "team" : [ {
     "members" : [ {
