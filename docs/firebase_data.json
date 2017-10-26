@@ -586,7 +586,23 @@
     } ],
     "tags" : [ "Business", "Mobile" ],
     "title" : "Founder and Android developer at Bloco"
-  } ],
+  } , {
+    "bio" : "Jorge Silva Martins is a lawyer primarily focused on the technology and telecommunications sectors. He has also a significant background in Internet and e-commerce law, providing advice on data protection, privacy, intellectual property, payments and consumer protection related matters. As a lawyer, Jorge is deeply committed to understand and explore the intersections between law and technology.",
+    "company" : "ABBC",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Jorge Silva Martins",
+    "photoUrl" : "../images/people/jorge_martins.jpg",
+    "shortBio" : "Media, Tech & Telecoms Lawyer. Always exploring new possibilities and new ways to create impact",
+    "socials" : [{
+      "icon" : "linkedIn",
+      "link" : "https://linkedin.com/in/jorge-silva-martins-ab212820",
+      "name" : "LinkedIn"
+    }],
+    "title" : "Lawyer, DLA Piper ABBC"
+  }],
   "team" : [ {
     "members" : [ {
       "name" : "Ana Parada",
