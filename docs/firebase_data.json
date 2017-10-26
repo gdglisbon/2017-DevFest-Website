@@ -305,6 +305,7 @@
       "id" : 994,
       "language" : "Portuguese",
       "tags" : [ "AI" ],
+      "speakers" : [ 11, 2 ],
       "title" : "OPEN - Artificial Intelligence Debate"
     },
     "995" : {
@@ -459,7 +460,7 @@
       "link" : "http://geekonaut.de/",
       "name" : "Geekonaut"
     } ],
-    "tags" : [ "Virtual Reality", "Web" ],
+    "tags" : [ "GDE", "Virtual Reality", "Web" ],
     "title" : "Head of Engineering @ Archilogic, Google Developer Expert"
   }, {
     "badges" : [ {
@@ -509,7 +510,8 @@
       "icon" : "twitter",
       "link" : "https://twitter.com/samcarecho",
       "name" : "Twitter"
-    } ]
+    } ],
+    "tags" : [ "Web"]
   }, {
     "badges" : [ {
       "description" : "Google Developer Expert",
@@ -601,6 +603,7 @@
       "link" : "https://linkedin.com/in/jorge-silva-martins-ab212820",
       "name" : "LinkedIn"
     }],
+    "tags": ["Lawyer"],
     "title" : "Lawyer, DLA Piper ABBC"
   }],
   "team" : [ {
