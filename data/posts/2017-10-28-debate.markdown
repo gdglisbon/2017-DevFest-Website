@@ -5,20 +5,22 @@ Próximo dia 10 Novembro, às 19:00, teremos o debate de Inteligência Artificia
 
 ---
 ## **Debate**
-Inteligência Artificial é um ramo da ciência dos computadores com o objectivo de encontrar, quando possível, solução para problemas existente. Inteligência artificial é uma familia de vários campos como aprendizagem máquina, optimização, visão ou robótica.
-
-Hoje em dia, inteligência artificial deixou de se exclusiva para o meio académico, hoje em dia, já não serve só para determinar qual o melhor horário de comboios, hoje em dia até possível através de uma imagem a máquina identificar se é cancro da pele ou simplesmente recomendar que filme ver a seguir.
-
-Cada vez mais nos baseamos nas respostas que a máquina nos dá, cada vez para alimentar esta máquina é necessário dar-lhe mais dados, de forma que ela se torne mais eficaz. Seja ela inserida voluntariamente através de captchas ou recolhida por usar algum software.
-
-Temos a [DeepMind](https://deepmind.com/) da Alphabet ou o [OpenAI](https://openai.com/) fundado por Elon Musk ambos conseguirem aplicar a inteligência artificial em soluções que poucos anos atrás tal não seriam possível. A própria Google diz agora deixou de ser "mobile first" mas sim uma empresa "AI first".
-
-Irá ter um painel de debate composto por pessoas de diferentes especialidades para discutir o presente e futuro da nossa sociedade com a aplicação da Inteligência Artificial.
 
 * Que problemas éticos se levantam?
-* Certos trabalhos serão extintos?
-* Que limitações tem a Inteligência Artificial?
+* Há trabalhos que serão extintos?
+* Que limitações existem à Inteligência Artificial?
 
+A Inteligência Artificial, é um ramo da ciência dos computadores com o objectivo de encontrar, quando possível, solução para problemas existente. Inteligência artificial (IA) é uma familia de vários campos como aprendizagem máquina, optimização, visão ou robótica.
+
+Hoje em dia, IA deixou de se exclusiva para o meio académico, já não resolve tarefas mais simples como determinar qual o melhor horário de comboios, agora é possível, por exemplo, através de uma imagem a máquina identificar se é um cancro da pele.
+
+Cada vez mais nos dependemos nas respostas que a máquina nos dá, no entanto para alimentar esta máquina é necessário contribuir com cada mais informação, seja pessoal ou geral, de forma que ela se torne mais eficaz. Que é um tema sensível dado que poderá incluir informação privada ou gravações de voz.
+
+No entanto há empresas a desejar fazer o bem, temos a [DeepMind](https://deepmind.com/) da Alphabet ou o [OpenAI](https://openai.com/) fundado por Elon Musk ambos conseguiram aplicar a inteligência artificial em soluções que poucos anos atrás tal não seriam possível. Com o objectivo de tornar o mundo melhor. 
+
+A própria Google diz agora deixou de ser "mobile first" mas sim uma empresa "AI first".
+
+Este debate irá ter um painel de debate composto por pessoas de diferentes especialidades para discutir o presente e futuro da nossa sociedade com a aplicação da Inteligência Artificial.
 
 
 ## **Painel**
