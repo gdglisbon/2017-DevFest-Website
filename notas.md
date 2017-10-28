@@ -1,0 +1,4 @@
+
+
+Quando pensamos na revolução industrial, pensamos em como as máquinas vieram dar a força, como a produção artesanal veio a ser substituida por grandes máquinas, que revolucionaram o mundo desde a manufracção até ao transforte. A revolução industrial teve um impacto monumental na civilização.  
+No ínicio do século XIX, iniciava-se no papel, um outro propósito para as máquinas, dava-se os primeiros passos e escrevia-se ainda em termos matemáticos, a teoria da computação. A computação foi amadurendo e depois de Ada Lovelance e Charles Babbage darem os primeiros passos na teoria da programação, Alan Turing veio a 

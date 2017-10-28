@@ -1,0 +1,57 @@
+*The debate will be held in portuguese*
+
+
+Próximo dia 10 Novembro, às 19:00, teremos o debate de Inteligência Artificial, enquadrado na conferência **[DevFest](https://devfest.gdglisbon.xyz/)**, será um debate aberto ao público e *não necessitará de bilhete para a entrada*.
+
+---
+## **Debate**
+Inteligência Artificial é um ramo da ciência dos computadores com o objectivo de encontrar, quando possível, solução para problemas existente. Inteligência artificial é uma familia de vários campos como aprendizagem máquina, optimização, visão ou robótica.
+
+Hoje em dia, inteligência artificial deixou de se exclusiva para o meio académico, hoje em dia, já não serve só para determinar qual o melhor horário de comboios, hoje em dia até possível através de uma imagem a máquina identificar se é cancro da pele ou simplesmente recomendar que filme ver a seguir.
+
+Cada vez mais nos baseamos nas respostas que a máquina nos dá, cada vez para alimentar esta máquina é necessário dar-lhe mais dados, de forma que ela se torne mais eficaz. Seja ela inserida voluntariamente através de captchas ou recolhida por usar algum software.
+
+Temos a [DeepMind](https://deepmind.com/) da Alphabet ou o [OpenAI](https://openai.com/) fundado por Elon Musk ambos conseguirem aplicar a inteligência artificial em soluções que poucos anos atrás tal não seriam possível. A própria Google diz agora deixou de ser "mobile first" mas sim uma empresa "AI first".
+
+Irá ter um painel de debate composto por pessoas de diferentes especialidades para discutir o presente e futuro da nossa sociedade com a aplicação da Inteligência Artificial.
+
+* Que problemas éticos se levantam?
+* Certos trabalhos serão extintos?
+* Que limitações tem a Inteligência Artificial?
+
+
+
+## **Painel**
+**Bruno Nobre**, padre Jesuíta e professor de filosofia na universidade católica de Portugal de Braga.
+
+<img src="../../images/people/bruno_nobre.jpg" alt="Drawing" style="width: 200px;"/>
+
+**Mário Cordeiro**, desenvolvedor sénior da empresa Critical Manufacturing e aluno Ph.D. na Universidade do Porto
+
+<img src="../../images/people/mario_cordeiro.jpg" alt="Drawing" style="width: 200px;"/>
+
+**Jorge Silva Martins**, advogado na DLA Piper ABBC
+<img src="../../images/people/jorge_martins.jpg" alt="Drawing" style="width: 200px;"/>
+
+---
+
+### **Quando? Onde?**
+Próximo dia 10 Novembro às 19:00, [PT/Altice - Fórum Telecom, Avenida Fontes Pereira de Melo 40, 1050 Lisboa](https://www.google.com/maps/search/?api=1&query=Avenida+Fontes+Pereira+de+Melo%2C+40%2C+Lisbon%2C+Lisbon%2C+pt).
+
+
+
+### **+Informações**
+https://devfest.gdglisbon.xyz/
+
+
+https://www.meetup.com/gdglisbon/events/244405473/
+
+
+Slack -  Google Developers Group Lisboa, canal #AI
+https://gdglisbon.herokuapp.com
+
+### **DevFest !**
+
+Não te esqueças de reservar o teu bilhete para o DevFest dia 11 Novembro, assiste à palestra do Mário Cordeiro compra já o teu bilhete em https://devfest.gdglisbon.xyz/
+
+#DevFestLx

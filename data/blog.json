@@ -7,5 +7,14 @@
       "secondaryColor": "#455a64",
       "image": "/images/posts/summary.jpg",
       "brief": "Yesterday we just closed the call for papers for our Devfest 2017 which is going to take place in Lisbon, on November 10-11."
+    },
+    {
+      "id": "debate",
+      "title": "Debate Inteligência Artificial!",
+      "posted": "2017-10-28",
+      "primaryColor": "#d81b60",
+      "secondaryColor": "#3949ab",
+      "image": "/images/posts/library.jpg",
+      "brief": "Não percas o debate sobre Inteligência Artificial do DevFest Lisboa!"
     }
 ]
