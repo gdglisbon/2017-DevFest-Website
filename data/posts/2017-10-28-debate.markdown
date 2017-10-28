@@ -10,13 +10,13 @@ Próximo dia 10 Novembro, às 19:00, teremos o debate de Inteligência Artificia
 * Há trabalhos que serão extintos?
 * Que limitações existem à Inteligência Artificial?
 
-A Inteligência Artificial, é um ramo da ciência dos computadores com o objectivo de encontrar, quando possível, solução para problemas existente. Inteligência artificial (IA) é uma familia de vários campos como aprendizagem máquina, optimização, visão ou robótica.
+A Inteligência Artificial, é um ramo da ciência dos computadores com o objectivo de encontrar, quando possível, solução para problemas existentes. Inteligência artificial (IA) é uma familia de vários campos como aprendizagem máquina, optimização, visão ou robótica.
 
 Hoje em dia, IA deixou de se exclusiva para o meio académico, já não resolve tarefas mais simples como determinar qual o melhor horário de comboios, agora é possível, por exemplo, através de uma imagem a máquina identificar se é um cancro da pele.
 
-Cada vez mais nos dependemos nas respostas que a máquina nos dá, no entanto para alimentar esta máquina é necessário contribuir com cada mais informação, seja pessoal ou geral, de forma que ela se torne mais eficaz. Que é um tema sensível dado que poderá incluir informação privada ou gravações de voz.
+Cada vez mais nos dependemos nas respostas que a máquina nos dá, no entanto para alimentar esta máquina é necessário contribuir com cada vez mais informação, seja pessoal ou geral, de forma a que esta se torne mais eficaz. Este é um tema sensível, dado que poderá incluir informação privada ou até mesmo gravações de voz.
 
-No entanto há empresas a desejar fazer o bem, temos a [DeepMind](https://deepmind.com/) da Alphabet ou o [OpenAI](https://openai.com/) fundado por Elon Musk ambos conseguiram aplicar a inteligência artificial em soluções que poucos anos atrás tal não seriam possível. Com o objectivo de tornar o mundo melhor. 
+No entanto, há empresas a desejar fazer o bem - a [DeepMind](https://deepmind.com/) da Alphabet ou o [OpenAI](https://openai.com/) fundado por Elon Musk,  conseguiram aplicar a inteligência artificial em soluções que poucos anos atrás tal não seriam possíveis. Sempre com o objectivo de tornar o mundo melhor. 
 
 A própria Google diz agora deixou de ser "mobile first" mas sim uma empresa "AI first".
 
