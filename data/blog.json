@@ -9,12 +9,21 @@
       "brief": "Yesterday we just closed the call for papers for our Devfest 2017 which is going to take place in Lisbon, on November 10-11."
     },
     {
+      "id": "community-tickets",
+      "title": "Free Tickets to Community Organizers",
+      "posted": "2017-10-28",
+      "primaryColor": "#80CBC4",
+      "secondaryColor": "#4CAF50",
+      "image": "/images/posts/community.jpg",
+      "brief": "Free tickets for community organizers, because we want to give the city something back, keep up the good work!"
+    },
+    {
       "id": "debate",
       "title": "Debate Inteligência Artificial!",
       "posted": "2017-10-28",
       "primaryColor": "#d81b60",
       "secondaryColor": "#3949ab",
       "image": "/images/posts/library.jpg",
-      "brief": "Não percas o debate sobre Inteligência Artificial do DevFest Lisboa!"
+      "brief": "[PT] Não percas o debate sobre Inteligência Artificial do DevFest Lisboa!"
     }
 ]
