@@ -147,7 +147,7 @@
       "startTime" : "18:00"
     }, {
       "endTime" : "19:20",
-      "sessions" : [ [ 113 ], [ 114 ] ],
+      "sessions" : [ [ 113 ], [ 111 ] ],
       "startTime" : "18:40"
     }, {
       "endTime" : "20:00",
@@ -272,11 +272,14 @@
       "title" : "The Sense of Location on any Business"
     },
     "111" : {
-      "description" : "TBA",
+      "complexity" : "Beginner",
+      "description" : "You are interested in statistics, in data, in analytics, but heard that R is not a friendly language. That changed over the last years with the tidyverse universe, a fast, friendly, and high level way of doing stats in R. From importing your data, to functional programming, tidyverse will help you to start and work with R.",
       "id" : 111,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBA"
+      "speakers" : [ 14 ],
+      "tags" : [ "Data" ],
+      "title" : "Analytics with R, the tidyverse point of view"
     },
     "112" : {
       "description" : "TBA",
@@ -650,8 +653,29 @@
     "name" : "Bruno Nobre",
     "photoUrl" : "../images/people/bruno_nobre.jpg",
     "shortBio" : "Bruno Nobre is a Jesuit Priest, and a Professor of Philosophy at the Catholic University of Portugal (Braga). His academic background is in Physics (Particle Physics).",
-    "tags": ["Jesuit"],
+    "tags": ["Philosophy"],
     "title" : "Professor of Philosophy"
+  }, {
+    "bio" : "Data Scientist @DatMean. Interested in Graphs, Machine Learning and Visualization. Co-organizer of R-Ladies Madrid, where tech women gather to share R knowledge. Member of the NASADatanauts 2017 fall class, a community to play with NASA Open Data and build projects with people from all over the world.",
+    "company" : "Datmean",
+    "companyLogo" : "https://datmean.com/img/logo.png",
+    "country" : "Spain",
+    "featured" : true,
+    "id" : 14,
+    "name" : "Bea Hernández",
+    "photoUrl" : "../images/people/bea.jpg",
+    "shortBio" : "Data Scientist - Graphs, ML & Visualization",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/chucheria",
+      "name" : "Github"
+    },{
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chucheria",
+      "name" : "Twitter"
+    }],
+    "tags": ["Machine Learning"],
+    "title" : "Data Scientist"
   }],
   "team" : [ {
     "members" : [ {
