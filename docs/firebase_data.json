@@ -40,6 +40,10 @@
       "logoUrl" : "../images/logos/nezasa.png",
       "name" : "Nezasa",
       "url" : "https://www.nezasa.com/"
+    }, {
+      "logoUrl" : "https://cdn.frontify.com/api/screen/thumbnail/XiPdehJfCLmu64qTEPVwA5VmVfqeazpdh6gWJAq0HVq62vsEthYR3wxnLnAFukh9bqJhnbdfD5pGF67ou0NzIQ/1072",
+      "name" : "FocusBC",
+      "url" : "http://www.focus-bc.com/pt/"
     } ],
     "title" : "Gold Sponsor"
   }, {
@@ -67,8 +71,23 @@
       "logoUrl" : "../images/logos/uniarea.png",
       "name" : "Uniarea",
       "url" : "https://uniarea.com/"
+    }, {
+      "logoUrl" : "../images/logos/pplware.png",
+      "name" : "PPLWare",
+      "url" : "https://pplware.sapo.pt/"
     } ],
     "title" : "Media Partner"
+  }, {
+    "logos" : [{
+      "logoUrl" : "../images/logos/meetup.png",
+      "name" : "Meetup",
+      "url" : "https://www.meetup.com/"
+    },{
+      "logoUrl" : "../images/logos/lisbon_vr.png",
+      "name" : "LisbonVR",
+      "url" : "https://www.thelisbonvr.com/"
+    } ],
+    "title" : "Partner"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/jetbrains.png",
