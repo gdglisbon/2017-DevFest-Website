@@ -9,6 +9,24 @@
       "brief": "Yesterday we just closed the call for papers for our Devfest 2017 which is going to take place in Lisbon, on November 10-11."
     },
     {
+      "id": "2017-10-15-track-one-green",
+      "title": "Track Green - Business & Design",
+      "posted": "2017-10-15",
+      "primaryColor": "#4CAF50",
+      "secondaryColor": "#8BC34A",
+      "image": "/images/posts/business.jpg",
+      "brief": "Having a successful product or business, is much more than just using the latest tools or technologies. Having a good team of programmers is not enough. So this year, we decided to do things a little bit different."
+    },
+    {
+      "id": "2017-10-15-track-two-blue",
+      "title": "Track Blue - Technology",
+      "posted": "2017-10-15",
+      "primaryColor": "#3F51B5",
+      "secondaryColor": "#448AFF",
+      "image": "/images/posts/tech.jpg",
+      "brief": "Technology is moving and spreading at a faster pace than ever before and we want to make sure you won’t be left behind. From our living room, to our Kitchen or even our streets, the internet of things is shaping the world as we know today."
+    },
+    {
       "id": "community-tickets",
       "title": "Free Tickets to Community Organizers",
       "posted": "2017-10-18",
