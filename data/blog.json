@@ -30,8 +30,8 @@
       "id": "community-tickets",
       "title": "Free Tickets to Community Organizers",
       "posted": "2017-10-18",
-      "primaryColor": "#80CBC4",
-      "secondaryColor": "#4CAF50",
+      "primaryColor": "#FFC107",
+      "secondaryColor": "#FF5722",
       "image": "/images/posts/community.jpg",
       "brief": "Free tickets for community organizers, because we want to give the city something back, keep up the good work!"
     },
@@ -39,8 +39,8 @@
       "id": "debate",
       "title": "Debate Inteligência Artificial!",
       "posted": "2017-10-28",
-      "primaryColor": "#d81b60",
-      "secondaryColor": "#3949ab",
+      "primaryColor": "#9C27B0",
+      "secondaryColor": "#7C4DFF",
       "image": "/images/posts/library.jpg",
       "brief": "[PT] Não percas o debate sobre Inteligência Artificial do DevFest Lisboa!"
     }
