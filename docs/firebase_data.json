@@ -34,7 +34,7 @@
       "name" : "Altice",
       "url" : "https://enter.telecom.pt/"
     } ],
-    "title" : "Diamond Sponsor"
+    "title" : "Diamond Sponsors"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/nezasa.png",
@@ -45,7 +45,7 @@
       "name" : "FocusBC",
       "url" : "http://www.focus-bc.com/pt/"
     } ],
-    "title" : "Gold Sponsor"
+    "title" : "Gold Sponsors"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/abertomadrugada.jpg",
@@ -76,7 +76,7 @@
       "name" : "PPLWare",
       "url" : "https://pplware.sapo.pt/"
     } ],
-    "title" : "Media Partner"
+    "title" : "Media Partners"
   }, {
     "logos" : [{
       "logoUrl" : "../images/logos/meetup.png",
@@ -87,7 +87,7 @@
       "name" : "LisbonVR",
       "url" : "https://www.thelisbonvr.com/"
     } ],
-    "title" : "Partner"
+    "title" : "Partners"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/jetbrains.png",
@@ -109,7 +109,7 @@
       "name" : "Frubis",
       "url" : "https://frubisworld.com/"
     } ],
-    "title" : "Food&Drink"
+    "title" : "Food & Drink"
   }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/poets.jpg",
