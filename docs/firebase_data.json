@@ -78,11 +78,11 @@
     } ],
     "title" : "Media Partner"
   }, {
-    "logos" : [{
+    "logos" : [ {
       "logoUrl" : "../images/logos/meetup.png",
       "name" : "Meetup",
       "url" : "https://www.meetup.com/"
-    },{
+    }, {
       "logoUrl" : "../images/logos/lisbon_vr.png",
       "name" : "LisbonVR",
       "url" : "https://www.thelisbonvr.com/"
@@ -119,7 +119,7 @@
       "logoUrl" : "../images/logos/evolution.jpg",
       "name" : "Evolution Hotel",
       "url" : "https://www.evolution-hotels.com/"
-    }  ],
+    } ],
     "title" : "Lodging"
   } ],
   "ratings" : {
@@ -301,13 +301,14 @@
       "title" : "Analytics with R, the tidyverse point of view"
     },
     "112" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "Someone asks you to join an existing project. You need to maintain and build new features on an existing app. And you will have new team members to work with. Let's talk about auditing Android projects, create a work plan, collaborate with team mates and get things done.",
       "id" : 112,
       "language" : "English",
       "presentation" : "",
-      "title" : "TBA",
       "speakers" : [ 10 ],
-      "tags" : [ "Android" ]
+      "tags" : [ "Android" ],
+      "title" : "Joining an Android Project"
     },
     "113" : {
       "description" : "TBA",
@@ -334,8 +335,8 @@
       "description" : "Google itself says that is now not a mobile first but Artificial Intelligence first, more and more we see software and apps with AI, what impact will the have? We have invited variosu experts to debate.",
       "id" : 994,
       "language" : "Portuguese",
-      "tags" : [ "AI" ],
       "speakers" : [ 11, 2, 13 ],
+      "tags" : [ "AI" ],
       "title" : "OPEN - Artificial Intelligence Debate"
     },
     "995" : {
@@ -460,7 +461,7 @@
       "link" : "https://twitter.com/dcifuen",
       "name" : "Twitter"
     } ],
-    "tags" : [ "GDE", "Cloud"],
+    "tags" : [ "GDE", "Cloud" ],
     "title" : "Software Engineer @ Zalando SE, Google Developer Expert"
   }, {
     "badges" : [ {
@@ -520,7 +521,7 @@
       "link" : "https://www.bob.wtf",
       "name" : "Website"
     } ],
-    "tags" : [ "GDE"],
+    "tags" : [ "GDE" ],
     "title" : "Software Engineer @ Kubrickology, Google Developer Expert"
   }, {
     "bio" : "I'm a Software Engineer, working since 2000 with the Web and the Internet.\nIn 2013 I was presented with the first W3C Web Components draft and Polymer.\nAt the end of that same year, I presented a Polymer CodeLab at the annual W3C Brazil conference.\nLately, I'm working remotely with a team based in the USA, migrating Salvation Army's old systems to powerful web technologies, and at the same time, traveling the world. This November(2017), my world expedition completes 12 months.",
@@ -541,7 +542,7 @@
       "link" : "https://twitter.com/samcarecho",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Web"]
+    "tags" : [ "Web" ]
   }, {
     "badges" : [ {
       "description" : "Google Developer Expert",
@@ -593,7 +594,7 @@
     } ],
     "tags" : [ "Business" ],
     "title" : "COO at Redlight Software"
-  } , {
+  }, {
     "bio" : "Sérgio Santos is a founder and developer at Bloco, a product studio specialised in Android. After a long time as a full-stack web developer, he decided to switch to mobile development and haven't returned since. Interested in software quality and building great products.",
     "company" : "Bloco",
     "companyLogo" : "https://static1.squarespace.com/static/551d4b4fe4b088e1f808d234/t/569556330ab377b8a8a3115d/1508943279152",
@@ -609,16 +610,16 @@
       "name" : "Twitter"
     }, {
       "icon" : "website",
-      "link" : "https://bloco.io",
+      "link" : "http://bloco.io",
       "name" : "Bloco"
     }, {
       "icon" : "website",
-      "link" : "https://www.sergiosantos.info",
+      "link" : "http://www.sergiosantos.info",
       "name" : "Personal"
     } ],
     "tags" : [ "Business", "Mobile" ],
     "title" : "Founder and Android developer at Bloco"
-  } , {
+  }, {
     "bio" : "Jorge Silva Martins is a lawyer primarily focused on the technology and telecommunications sectors. He has also a significant background in Internet and e-commerce law, providing advice on data protection, privacy, intellectual property, payments and consumer protection related matters. As a lawyer, Jorge is deeply committed to understand and explore the intersections between law and technology.",
     "company" : "DLA Piper ABBC",
     "companyLogo" : "http://www.dlapiper.com/assets/main/img/branding/branding.svg",
@@ -628,12 +629,12 @@
     "name" : "Jorge Silva Martins",
     "photoUrl" : "../images/people/jorge_martins.jpg",
     "shortBio" : "Media, Tech & Telecoms Lawyer. Always exploring new possibilities and new ways to create impact",
-    "socials" : [{
+    "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://linkedin.com/in/jorge-silva-martins-ab212820",
       "name" : "LinkedIn"
-    }],
-    "tags": ["Lawyer"],
+    } ],
+    "tags" : [ "Lawyer" ],
     "title" : "Lawyer, DLA Piper ABBC"
   }, {
     "bio" : "Art, music and tech lover! Founder and Managing Partner at Focus BC - EMEA Google Enterprise Partner - and EngSolvers and also teach in portuguese universities. Engineer with more than 10 years of professional experience in the area of information systems working as Director in Technical, Research and Development areas. I've participated as Project Manager and Director in several international and national projects, such as: NC3A - NATO; Geocapital Holding; AICEP Global Parks; Chronopost International; Portuguese Geographic Institute, Portugal National Roads Agency, National Direction for Spatial Planning and Urban Development; The Sports Institute of Portugal and Many Local and Central Governemnt organizations. Specialties: Location Intelligence, Leadership, Information Systems, Management, Project Management, Defense and Security, Engineering, Geographic Information Systems, Presentations",
@@ -645,24 +646,24 @@
     "name" : "Sandro Batista",
     "photoUrl" : "../images/people/sandro_batista.jpg",
     "shortBio" : "Art, music and tech lover! Founder and Managing Partner at Focus BC - EMEA Google Enterprise Partner - and EngSolvers with more than 10 years of professional experience in the area of information systems working as Director in Technical, Research and Development areas.",
-    "socials" : [{
+    "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/sandrobatista",
       "name" : "LinkedIn"
-    },{
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/sandrobatista",
       "name" : "Twitter"
-    },{
+    }, {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/sandro.goncalo",
       "name" : "Facebook"
-    },{
+    }, {
       "icon" : "gplus",
       "link" : "https://plus.google.com/u/0/+SandroBatistaPT",
       "name" : "Google+"
-    }],
-    "tags": ["Business"],
+    } ],
+    "tags" : [ "Business" ],
     "title" : "Founder and Managing Partner"
   }, {
     "bio" : "Bruno Nobre is Jesuit Priest, and a Professor of Philosophy at the Catholic University of Portugal (Braga). He earned his Licentiate in Physics Engineering (2000) and his PhD in Physics at Instituto Superior Técnico, Lisbon (2005). He studied Philosophy at the Faculty of Philosophy and Social Sciences, Catholic University, Braga (2007-2010), and obtained his Master’s degree (MDiv) in Theology at Boston College (2016). He was a Postdoctoral researcher in Philosophy of Science at Universidade do Estado do Rio de Janeiro (2016-2017). He is the co-author, with Pedro Lind, of Dois Dedos de Conversa Sobre o Dentro das Coisas, and published several academic articles.",
@@ -674,7 +675,7 @@
     "name" : "Bruno Nobre",
     "photoUrl" : "../images/people/bruno_nobre.jpg",
     "shortBio" : "Bruno Nobre is a Jesuit Priest, and a Professor of Philosophy at the Catholic University of Portugal (Braga). His academic background is in Physics (Particle Physics).",
-    "tags": ["Philosophy"],
+    "tags" : [ "Philosophy" ],
     "title" : "Professor of Philosophy"
   }, {
     "bio" : "Data Scientist @DatMean. Interested in Graphs, Machine Learning and Visualization. Co-organizer of R-Ladies Madrid, where tech women gather to share R knowledge. Member of the NASADatanauts 2017 fall class, a community to play with NASA Open Data and build projects with people from all over the world.",
@@ -690,14 +691,14 @@
       "icon" : "github",
       "link" : "https://github.com/chucheria",
       "name" : "Github"
-    },{
+    }, {
       "icon" : "twitter",
       "link" : "https://twitter.com/chucheria",
       "name" : "Twitter"
-    }],
-    "tags": ["Machine Learning"],
+    } ],
+    "tags" : [ "Machine Learning" ],
     "title" : "Data Scientist"
-  }],
+  } ],
   "team" : [ {
     "members" : [ {
       "name" : "Ana Parada",
@@ -769,5 +770,12 @@
       "starts" : "September 1"
     } ],
     "url" : "https://2event.com/en/events/1010022"
+  },
+  "userSessions" : {
+    "a6cvNGx0hvTtidEewHyV08C9sfZ2" : {
+      "101" : true,
+      "108" : true,
+      "109" : true
+    }
   }
 }
