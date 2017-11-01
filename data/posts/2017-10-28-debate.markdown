@@ -24,6 +24,11 @@ Este debate irá ter um painel de debate composto por pessoas de diferentes espe
 
 
 ## **Painel**
+
+**Pedro Pinto**, será o nosso moderador do debate, ele é fundador da revista online PPLWare.
+
+<img src="../../images/people/pedro_pinto.jpg" alt="Drawing" style="width: 200px;"/>
+
 **Bruno Nobre**, padre Jesuíta e professor de filosofia na universidade católica de Portugal de Braga.
 
 <img src="../../images/people/bruno_nobre.jpg" alt="Drawing" style="width: 200px;"/>

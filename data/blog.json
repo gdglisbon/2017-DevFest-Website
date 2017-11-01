@@ -36,6 +36,15 @@
       "brief": "Free tickets for community organizers, because we want to give the city something back, keep up the good work!"
     },
     {
+      "id": "workshop",
+      "title": "Workshop : VR in your Pocket, with WebVR and Polymer ",
+      "posted": "2017-10-25",
+      "primaryColor": "#607D8B",
+      "secondaryColor": "#9E9E9E",
+      "image": "/images/posts/workshop.jpg",
+      "brief": "Come have fun building a VR experience that runs on most phones and all platforms, using Web Components and WebVR."
+    },
+    {
       "id": "debate",
       "title": "Debate Inteligência Artificial!",
       "posted": "2017-10-28",
