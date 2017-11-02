@@ -1,29 +1,31 @@
-DevFest will have a really especial Workshop given by [Sam Carecho, also a speaker at our DevFest](https://devfest.gdglisbon.xyz/schedule/day1?sessionId=107).
+DevFest will have a really especial Workshop given by [**Sam Carecho**, also a speaker at our DevFest](https://devfest.gdglisbon.xyz/schedule/day1?sessionId=107).
 
-You need to have a ticket for the DevFest and register here:  https://goo.gl/forms/QgsEK2hcB8gIobM43 
+**You need to have a ticket for the DevFest and register here:**  https://goo.gl/forms/QgsEK2hcB8gIobM43 
 
 Afterwards, you will be contacted, to know if you have a spot at the workshop.
 The workshop will start at 10:30 ending at 13:00 on 11th November.
 
 ---
 
-Title: VR in your Pocket, with WebVR and Polymer 
+### **About the workshop**
 
-Description: Come have fun building a VR experience that runs on most phones and all platforms, using Web Components and WebVR. 
+**Title:** VR in your Pocket, with WebVR and Polymer 
+
+**Description:** Come have fun building a VR experience that runs on most phones and all platforms, using Web Components and WebVR. 
 
 On this codeLab, you will be introduced to Google Polymer, the technology upon which the YouTube Webapp was recently rewritten with, You will also get to know and play with WebVR, the open specification that brings VR to most modern browsers, including those we run on our smartphones. 
 
 This is what you will build(open on your phone or computer): 
 https://samcarecho.github.io/polyvr/ 
 
-Instructions: Bring your computer. (you can follow up on a friend's computer) 
+**Instructions:** Bring your computer. (you can follow up on a friend's computer) 
 Please install the following software on your computer before attending the event: 
 
-NodeJS -> https://nodejs.org/en/download/ 
-Git -> https://git-scm.com/downloads 
-Polymer CLI -> https://www.polymer-project.org/2.0/docs/tools/polymer-cli 
+- **NodeJS:** https://nodejs.org/en/download/ 
+- **Git:** https://git-scm.com/downloads 
+- **Polymer CLI:** https://www.polymer-project.org/2.0/docs/tools/polymer-cli 
 
-If you need help installing the software, please contact me on Twitter: 
+If you need help installing the software, you can contact Sam directly on Twitter: 
 https://twitter.com/samcarecho 
 
 ---
