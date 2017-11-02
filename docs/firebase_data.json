@@ -701,12 +701,12 @@
   } , {
     "bio" : "Eng. at IPG and responsbile for PPLWare online magazine",
     "company" : "PPLWare",
-    "companyLogo" : "../images/logos/pplware.png",
+    "companyLogo" : "../images/logos/ipgpplware.png",
     "country" : "Portugal",
     "featured" : true,
     "id" : 15,
-    "name" : "Pedro Pinto ",
-    "photoUrl" : "../images/people/pedro_pinto.jpg",
+    "name" : "Pedro Pinto",
+    "photoUrl" : "../images/people/p_p.jpg",
     "shortBio" : "Eng. at IPG and responsbile for PPLWare online magazine",
     "socials" : [ {
       "icon" : "facebook",

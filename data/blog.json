@@ -45,6 +45,15 @@
       "brief": "Come have fun building a VR experience that runs on most phones and all platforms, using Web Components and WebVR."
     },
     {
+      "id": "ppdm",
+      "title": "Plataforma Portuguesa para os Direitos das Mulheres",
+      "posted": "2017-10-26",
+      "primaryColor": "#FFFFFF",
+      "secondaryColor": "#7C4DFF",
+      "image": "/images/posts/ppdm.png",
+      "brief": "[PT] Procurando ser um evento promotor da igualdade de género e pretendendo também contribuir para a mudança de mentalidades, o **DevFest** dará ênfase a temas como a diversidade e inclusão na tecnologia."
+    },
+    {
       "id": "debate",
       "title": "Debate Inteligência Artificial!",
       "posted": "2017-10-28",
