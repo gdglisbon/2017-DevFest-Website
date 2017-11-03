@@ -162,11 +162,11 @@
       "startTime" : "17:20"
     }, {
       "endTime" : "18:40",
-      "sessions" : [ [ 999 ], [ 104 ] ],
+      "sessions" : [ [ 113 ], [ 104 ] ],
       "startTime" : "18:00"
     }, {
       "endTime" : "19:20",
-      "sessions" : [ [ 113 ], [ 111 ] ],
+      "sessions" : [ [ 114 ], [ 111 ] ],
       "startTime" : "18:40"
     }, {
       "endTime" : "20:00",
@@ -311,16 +311,18 @@
       "title" : "Joining an Android Project"
     },
     "113" : {
-      "description" : "TBA",
+      "description" : "Doesn't aim to be a step by step guide on what to say or include in a pitch or deck but mostly help people understand the concept and level of flow they should achieve in communicating their value proposition.",
       "id" : 113,
+      "speakers" : [ 17 ],
       "language" : "English",
       "presentation" : "",
-      "title" : "TBA"
+      "title" : "How to Pitch and Communicate your Idea"
     },
     "114" : {
       "description" : "TBA",
       "id" : 114,
       "language" : "English",
+      "speakers" : [ 16 ],
       "presentation" : "",
       "title" : "TBA"
     },
@@ -347,7 +349,7 @@
       "title" : "Fireside Discussion"
     },
     "996" : {
-      "description" : "Coffee Break! Why not go say hello to the fellows at the Community Corner?",
+      "description" : "Coffee Break! Kindly offered by Nezasa, our Gold Sponsor\n Why not go say hello to the fellows at the Community Corner?",
       "id" : 996,
       "language" : "English",
       "tags" : [ "Information" ],
@@ -719,6 +721,32 @@
     } ],
     "tags" : [ "Web" ],
     "title" : "Eng."
+  } , {
+    "bio" : "Product Designer at Zomato",
+    "company" : "Zomato",
+    "companyLogo" : "../images/logos/zomato.jpg",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 16,
+    "name" : "Guilherme Corte-Real",
+    "photoUrl" : "../images/people/guilherme_real.jpg",
+    "shortBio" : "Product Designer at Zomato",
+    "socials" : [],
+    "tags" : [ "Design" ],
+    "title" : ""
+  } , {
+    "bio" : "Now a freelancer, howver with alot of experience in product with a lot of experience in creating products from idea do sales.",
+    "company" : "Freelancer",
+    "companyLogo" : "",
+    "country" : "Portugal",
+    "featured" : true,
+    "id" : 17,
+    "name" : "João Carreiro",
+    "photoUrl" : "../images/people/joao_carreiro.jpg",
+    "shortBio" : "Now a freelancer, howver with alot of experience in product with a lot of experience in creating products from idea do sales.",
+    "socials" : [],
+    "tags" : [ "Business" ],
+    "title" : "Freelancer"
   } ],
   "team" : [ {
     "members" : [ {
