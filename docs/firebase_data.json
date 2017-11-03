@@ -75,6 +75,10 @@
       "logoUrl" : "../images/logos/pplware.png",
       "name" : "PPLWare",
       "url" : "https://pplware.sapo.pt/"
+    }, {
+      "logoUrl" : "../images/logos/shifter.png",
+      "name" : "Shifter",
+      "url" : "https://shifter.pt/"
     } ],
     "title" : "Media Partners"
   }, {
