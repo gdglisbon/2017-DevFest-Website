@@ -323,12 +323,13 @@
       "title" : "How to Pitch and Communicate your Idea"
     },
     "114" : {
-      "description" : "TBA",
+      "complexity" : "Intermediate",
+      "description" : "In this talk we will present a brief overview of the history behind blockchain, adress the key features that Blockchain Technology brings to the market and talks about the current status quo in terms of business applications / opportunities. \nIntellectEU is an international technology company with core expertise in financial integration, middleware solutions, and development on top of Distributed Ledger Technology. \nWith more than 10 years of integration and development experience, we can combine DLT with different back office applications, platforms, and legacy systems to create their coexistence within a single infrastructure without business interruption. \nIntellectEU is an official SWIFT Integration Partner, one of the 30 founding members of Linux Foundation’s Hyperledger, IBM Business Partner for Blockchain implementations and Oracle Blockchain Marketplace Partner \nCompany Headquarters is located in Belgium, with offices in the United States, Portugal (Lisbon and Coimbra), Ukraine and Mexico. \nBlockchain Professional Services include Hyperledger, Ethereum, R3’s Corda and Chain. \nIntellectEU Integrates Blockchain/ DLT with different back office applications, platforms, and legacy systems to ensure their coexistence according to Key Industry Standards, Formats and Protocols.",
       "id" : 114,
       "language" : "English",
       "speakers" : [ 16 ],
       "presentation" : "",
-      "title" : "TBA"
+      "title" : "Blockchain for Business: Disruption or Evolution? "
     },
     "115" : {
       "description" : "TBA",
@@ -726,22 +727,31 @@
     "tags" : [ "Web" ],
     "title" : "Eng."
   } , {
-    "bio" : "Product Designer at Zomato",
-    "company" : "Zomato",
-    "companyLogo" : "../images/logos/zomato.jpg",
+    "bio" : "Paulo Jacinto Rodrigues is CEO of IntellectEU's Lisbon Office (blockchain R&D center). \nHe's also IntellectEU's Global Business Development Manager. \nPaulo is a seasoned Payments Professional with over 15 years in the Cards & Payments Industry. \nDuring his career Paulo has performed roles such as Head of the Portuguese SWIFT Service Bureau, Strategist and Product Analyst, and Head of the Portuguese blockchain/DLT Banking Working Group. \nHe's been present in several international forums and working groups regarding Payments, e-Identity and blockchain. \nWith more than a decade of experience in Strategy and Sales, Management and Product Development, Paulo has accumulated a wide range of expertise in different areas as well as valuable insights regarding the financial industry and payment infrastructures.",
+    "company" : "IntellectEU",
+    "companyLogo" : "../images/logos/intellecteu.png",
     "country" : "Portugal",
     "featured" : true,
     "id" : 16,
-    "name" : "Guilherme Corte-Real",
-    "photoUrl" : "../images/people/guilherme_real.jpg",
-    "shortBio" : "Product Designer at Zomato",
-    "socials" : [],
-    "tags" : [ "Design" ],
-    "title" : ""
+    "name" : "Paulo Jacinto Rodrigues",
+    "photoUrl" : "../images/people/paulo_jacinto_rodrigues.jpg",
+    "shortBio" : "Blockchain enthusiast. Innovator with a purpose. Improving and learning everyday. The value is in the people.",
+    "socials" : [
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/paulojacintorodrigues/",
+        "name" : "LinkedIn"
+    },{
+      "icon" : "twitter",
+      "link" : "https://twitter.com/PJR360work",
+      "name" : "Twitter"
+    }],
+    "tags" : [ "Blockchain", "Business" ],
+    "title" : "CEO IntellectEU Portugal "
   } , {
     "bio" : "Now a freelancer, howver with alot of experience in product with a lot of experience in creating products from idea do sales.",
     "company" : "Freelancer",
-    "companyLogo" : "",
+    "companyLogo" : "../images/logos/ipgpplware.png",
     "country" : "Portugal",
     "featured" : true,
     "id" : 17,
