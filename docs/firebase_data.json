@@ -112,6 +112,10 @@
       "logoUrl" : "../images/logos/frubis.jpg",
       "name" : "Frubis",
       "url" : "https://frubisworld.com/"
+    }, {
+      "logoUrl": "../images/logos/fabrica-sabores.jpg",
+      "name": "Fábrica dos Sabores",
+      "url": "https://www.facebook.com/afabricadossabores/"
     } ],
     "title" : "Food & Drink"
   }, {
