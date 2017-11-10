@@ -826,14 +826,14 @@
       "info" : "",
       "name" : "Regular",
       "price" : 4,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "September 1"
     }, {
       "currency" : "€",
       "ends" : "November 5",
       "name" : "Benevolent",
       "price" : 30,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "September 1"
     } ],
     "url" : "https://2event.com/en/events/1010022"
