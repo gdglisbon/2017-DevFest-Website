@@ -766,7 +766,7 @@
     "tags" : [ "Business" ],
     "title" : "Freelancer"
   } ],
-  "team" : [ {
+  "team" : [{
     "members" : [ {
       "name" : "Ana Parada",
       "photoUrl" : "../images/people/ana_parada.png",
@@ -818,7 +818,23 @@
       "title" : "Organizer"
     } ],
     "title" : "Core Team"
-  } ],
+  },{
+    "title" : "Staff",
+    "members": [{
+      "name" : "Nuno Silva",
+      "photoUrl" : "../images/people/nuno_silva.jpg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://behance.net/silvafnuno",
+        "name" : "Website"
+      }, {
+        "icon" : "website",
+        "link" : "https://nunofsilva.tumblr.com",
+        "name" : "Website"
+      } ],
+      "title" : "Photographer"   
+    }]
+  }],
   "tickets" : {
     "elements" : [ {
       "currency" : "€",
